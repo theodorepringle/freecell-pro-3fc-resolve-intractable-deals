@@ -1,0 +1,923 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 130112 ; Time: 1517681093.998235
+>>>Queue Stats: inserted=130112 items_in_queue=30112 extracted=100000
+Reached 200000 ; States-in-collection: 277876 ; Time: 1517681095.734535
+>>>Queue Stats: inserted=277876 items_in_queue=77876 extracted=200000
+Reached 300000 ; States-in-collection: 416551 ; Time: 1517681097.304414
+>>>Queue Stats: inserted=416551 items_in_queue=116551 extracted=300000
+Reached 400000 ; States-in-collection: 552503 ; Time: 1517681098.860983
+>>>Queue Stats: inserted=552503 items_in_queue=152503 extracted=400000
+Reached 500000 ; States-in-collection: 686680 ; Time: 1517681100.524951
+>>>Queue Stats: inserted=686680 items_in_queue=186680 extracted=500000
+Reached 600000 ; States-in-collection: 821325 ; Time: 1517681102.502802
+>>>Queue Stats: inserted=821325 items_in_queue=221325 extracted=600000
+Reached 700000 ; States-in-collection: 954718 ; Time: 1517681104.721105
+>>>Queue Stats: inserted=954718 items_in_queue=254718 extracted=700000
+Reached 800000 ; States-in-collection: 1089831 ; Time: 1517681107.863794
+>>>Queue Stats: inserted=1089831 items_in_queue=289831 extracted=800000
+Reached 900000 ; States-in-collection: 1225340 ; Time: 1517681110.674510
+>>>Queue Stats: inserted=1225340 items_in_queue=325340 extracted=900000
+Reached 1000000 ; States-in-collection: 1359491 ; Time: 1517681113.113465
+>>>Queue Stats: inserted=1359491 items_in_queue=359491 extracted=1000000
+Reached 1100000 ; States-in-collection: 1492209 ; Time: 1517681115.192859
+>>>Queue Stats: inserted=1492209 items_in_queue=392209 extracted=1100000
+Reached 1200000 ; States-in-collection: 1626932 ; Time: 1517681117.141712
+>>>Queue Stats: inserted=1626932 items_in_queue=426932 extracted=1200000
+Reached 1300000 ; States-in-collection: 1760406 ; Time: 1517681118.989832
+>>>Queue Stats: inserted=1760406 items_in_queue=460406 extracted=1300000
+Reached 1400000 ; States-in-collection: 1889291 ; Time: 1517681120.798917
+>>>Queue Stats: inserted=1889291 items_in_queue=489291 extracted=1400000
+Reached 1500000 ; States-in-collection: 2020170 ; Time: 1517681122.818970
+>>>Queue Stats: inserted=2020170 items_in_queue=520170 extracted=1500000
+Reached 1600000 ; States-in-collection: 2153815 ; Time: 1517681124.860312
+>>>Queue Stats: inserted=2153815 items_in_queue=553815 extracted=1600000
+Reached 1700000 ; States-in-collection: 2286275 ; Time: 1517681126.770911
+>>>Queue Stats: inserted=2286275 items_in_queue=586275 extracted=1700000
+Reached 1800000 ; States-in-collection: 2418677 ; Time: 1517681128.754345
+>>>Queue Stats: inserted=2418677 items_in_queue=618677 extracted=1800000
+Reached 1900000 ; States-in-collection: 2541529 ; Time: 1517681130.903994
+>>>Queue Stats: inserted=2541529 items_in_queue=641529 extracted=1900000
+Reached 2000000 ; States-in-collection: 2668712 ; Time: 1517681132.970217
+>>>Queue Stats: inserted=2668712 items_in_queue=668712 extracted=2000000
+Reached 2100000 ; States-in-collection: 2799839 ; Time: 1517681134.922221
+>>>Queue Stats: inserted=2799839 items_in_queue=699839 extracted=2100000
+Reached 2200000 ; States-in-collection: 2933646 ; Time: 1517681136.962610
+>>>Queue Stats: inserted=2933646 items_in_queue=733646 extracted=2200000
+Reached 2300000 ; States-in-collection: 3060292 ; Time: 1517681139.160747
+>>>Queue Stats: inserted=3060292 items_in_queue=760292 extracted=2300000
+Reached 2400000 ; States-in-collection: 3191100 ; Time: 1517681141.222897
+>>>Queue Stats: inserted=3191100 items_in_queue=791100 extracted=2400000
+Reached 2500000 ; States-in-collection: 3310868 ; Time: 1517681143.101043
+>>>Queue Stats: inserted=3310868 items_in_queue=810868 extracted=2500000
+Reached 2600000 ; States-in-collection: 3433905 ; Time: 1517681145.118305
+>>>Queue Stats: inserted=3433905 items_in_queue=833905 extracted=2600000
+Reached 2700000 ; States-in-collection: 3560134 ; Time: 1517681147.368353
+>>>Queue Stats: inserted=3560134 items_in_queue=860134 extracted=2700000
+Reached 2800000 ; States-in-collection: 3687262 ; Time: 1517681149.377239
+>>>Queue Stats: inserted=3687262 items_in_queue=887262 extracted=2800000
+Reached 2900000 ; States-in-collection: 3816844 ; Time: 1517681151.328192
+>>>Queue Stats: inserted=3816844 items_in_queue=916844 extracted=2900000
+Reached 3000000 ; States-in-collection: 3942553 ; Time: 1517681153.471507
+>>>Queue Stats: inserted=3942553 items_in_queue=942553 extracted=3000000
+Reached 3100000 ; States-in-collection: 4069318 ; Time: 1517681155.632768
+>>>Queue Stats: inserted=4069318 items_in_queue=969318 extracted=3100000
+Reached 3200000 ; States-in-collection: 4194932 ; Time: 1517681157.538251
+>>>Queue Stats: inserted=4194932 items_in_queue=994932 extracted=3200000
+Reached 3300000 ; States-in-collection: 4310278 ; Time: 1517681159.422132
+>>>Queue Stats: inserted=4310278 items_in_queue=1010278 extracted=3300000
+Reached 3400000 ; States-in-collection: 4428838 ; Time: 1517681161.538022
+>>>Queue Stats: inserted=4428838 items_in_queue=1028838 extracted=3400000
+Reached 3500000 ; States-in-collection: 4552603 ; Time: 1517681163.737940
+>>>Queue Stats: inserted=4552603 items_in_queue=1052603 extracted=3500000
+Reached 3600000 ; States-in-collection: 4676546 ; Time: 1517681165.717559
+>>>Queue Stats: inserted=4676546 items_in_queue=1076546 extracted=3600000
+Reached 3700000 ; States-in-collection: 4802099 ; Time: 1517681167.702757
+>>>Queue Stats: inserted=4802099 items_in_queue=1102099 extracted=3700000
+Reached 3800000 ; States-in-collection: 4929800 ; Time: 1517681169.922753
+>>>Queue Stats: inserted=4929800 items_in_queue=1129800 extracted=3800000
+Reached 3900000 ; States-in-collection: 5049544 ; Time: 1517681172.073832
+>>>Queue Stats: inserted=5049544 items_in_queue=1149544 extracted=3900000
+Reached 4000000 ; States-in-collection: 5174112 ; Time: 1517681174.047181
+>>>Queue Stats: inserted=5174112 items_in_queue=1174112 extracted=4000000
+Reached 4100000 ; States-in-collection: 5299734 ; Time: 1517681176.033132
+>>>Queue Stats: inserted=5299734 items_in_queue=1199734 extracted=4100000
+Reached 4200000 ; States-in-collection: 5419632 ; Time: 1517681178.217333
+>>>Queue Stats: inserted=5419632 items_in_queue=1219632 extracted=4200000
+Reached 4300000 ; States-in-collection: 5533813 ; Time: 1517681180.388307
+>>>Queue Stats: inserted=5533813 items_in_queue=1233813 extracted=4300000
+Reached 4400000 ; States-in-collection: 5648147 ; Time: 1517681182.281200
+>>>Queue Stats: inserted=5648147 items_in_queue=1248147 extracted=4400000
+Reached 4500000 ; States-in-collection: 5769149 ; Time: 1517681184.502755
+>>>Queue Stats: inserted=5769149 items_in_queue=1269149 extracted=4500000
+Reached 4600000 ; States-in-collection: 5889190 ; Time: 1517681186.754406
+>>>Queue Stats: inserted=5889190 items_in_queue=1289190 extracted=4600000
+Reached 4700000 ; States-in-collection: 6008996 ; Time: 1517681188.880370
+>>>Queue Stats: inserted=6008996 items_in_queue=1308996 extracted=4700000
+Reached 4800000 ; States-in-collection: 6132575 ; Time: 1517681190.870969
+>>>Queue Stats: inserted=6132575 items_in_queue=1332575 extracted=4800000
+Reached 4900000 ; States-in-collection: 6255237 ; Time: 1517681192.956019
+>>>Queue Stats: inserted=6255237 items_in_queue=1355237 extracted=4900000
+Reached 5000000 ; States-in-collection: 6379381 ; Time: 1517681195.328338
+>>>Queue Stats: inserted=6379381 items_in_queue=1379381 extracted=5000000
+Reached 5100000 ; States-in-collection: 6496999 ; Time: 1517681198.305137
+>>>Queue Stats: inserted=6496999 items_in_queue=1396999 extracted=5100000
+Reached 5200000 ; States-in-collection: 6615656 ; Time: 1517681201.555246
+>>>Queue Stats: inserted=6615656 items_in_queue=1415656 extracted=5200000
+Reached 5300000 ; States-in-collection: 6740917 ; Time: 1517681204.641572
+>>>Queue Stats: inserted=6740917 items_in_queue=1440917 extracted=5300000
+Reached 5400000 ; States-in-collection: 6858654 ; Time: 1517681206.876551
+>>>Queue Stats: inserted=6858654 items_in_queue=1458654 extracted=5400000
+Reached 5500000 ; States-in-collection: 6972609 ; Time: 1517681209.055632
+>>>Queue Stats: inserted=6972609 items_in_queue=1472609 extracted=5500000
+Reached 5600000 ; States-in-collection: 7083875 ; Time: 1517681211.055895
+>>>Queue Stats: inserted=7083875 items_in_queue=1483875 extracted=5600000
+Reached 5700000 ; States-in-collection: 7195342 ; Time: 1517681213.120389
+>>>Queue Stats: inserted=7195342 items_in_queue=1495342 extracted=5700000
+Reached 5800000 ; States-in-collection: 7313578 ; Time: 1517681215.515627
+>>>Queue Stats: inserted=7313578 items_in_queue=1513578 extracted=5800000
+Reached 5900000 ; States-in-collection: 7431846 ; Time: 1517681217.590251
+>>>Queue Stats: inserted=7431846 items_in_queue=1531846 extracted=5900000
+Reached 6000000 ; States-in-collection: 7549113 ; Time: 1517681219.579929
+>>>Queue Stats: inserted=7549113 items_in_queue=1549113 extracted=6000000
+Reached 6100000 ; States-in-collection: 7666066 ; Time: 1517681221.703806
+>>>Queue Stats: inserted=7666066 items_in_queue=1566066 extracted=6100000
+Reached 6200000 ; States-in-collection: 7787992 ; Time: 1517681224.179984
+>>>Queue Stats: inserted=7787992 items_in_queue=1587992 extracted=6200000
+Reached 6300000 ; States-in-collection: 7909212 ; Time: 1517681226.226906
+>>>Queue Stats: inserted=7909212 items_in_queue=1609212 extracted=6300000
+Reached 6400000 ; States-in-collection: 8027973 ; Time: 1517681228.233703
+>>>Queue Stats: inserted=8027973 items_in_queue=1627973 extracted=6400000
+Reached 6500000 ; States-in-collection: 8141350 ; Time: 1517681230.483206
+>>>Queue Stats: inserted=8141350 items_in_queue=1641350 extracted=6500000
+Reached 6600000 ; States-in-collection: 8257871 ; Time: 1517681232.669842
+>>>Queue Stats: inserted=8257871 items_in_queue=1657871 extracted=6600000
+Reached 6700000 ; States-in-collection: 8376931 ; Time: 1517681234.695632
+>>>Queue Stats: inserted=8376931 items_in_queue=1676931 extracted=6700000
+Reached 6800000 ; States-in-collection: 8497337 ; Time: 1517681236.770631
+>>>Queue Stats: inserted=8497337 items_in_queue=1697337 extracted=6800000
+Reached 6900000 ; States-in-collection: 8611714 ; Time: 1517681239.079461
+>>>Queue Stats: inserted=8611714 items_in_queue=1711714 extracted=6900000
+Reached 7000000 ; States-in-collection: 8720525 ; Time: 1517681241.207001
+>>>Queue Stats: inserted=8720525 items_in_queue=1720525 extracted=7000000
+Reached 7100000 ; States-in-collection: 8838614 ; Time: 1517681243.311498
+>>>Queue Stats: inserted=8838614 items_in_queue=1738614 extracted=7100000
+Reached 7200000 ; States-in-collection: 8946237 ; Time: 1517681245.472764
+>>>Queue Stats: inserted=8946237 items_in_queue=1746237 extracted=7200000
+Reached 7300000 ; States-in-collection: 9060633 ; Time: 1517681247.831351
+>>>Queue Stats: inserted=9060633 items_in_queue=1760633 extracted=7300000
+Reached 7400000 ; States-in-collection: 9173257 ; Time: 1517681249.820150
+>>>Queue Stats: inserted=9173257 items_in_queue=1773257 extracted=7400000
+Reached 7500000 ; States-in-collection: 9286134 ; Time: 1517681251.900678
+>>>Queue Stats: inserted=9286134 items_in_queue=1786134 extracted=7500000
+Reached 7600000 ; States-in-collection: 9403864 ; Time: 1517681254.260421
+>>>Queue Stats: inserted=9403864 items_in_queue=1803864 extracted=7600000
+Reached 7700000 ; States-in-collection: 9522158 ; Time: 1517681256.598155
+>>>Queue Stats: inserted=9522158 items_in_queue=1822158 extracted=7700000
+Reached 7800000 ; States-in-collection: 9640724 ; Time: 1517681258.677428
+>>>Queue Stats: inserted=9640724 items_in_queue=1840724 extracted=7800000
+Reached 7900000 ; States-in-collection: 9759227 ; Time: 1517681260.778017
+>>>Queue Stats: inserted=9759227 items_in_queue=1859227 extracted=7900000
+Reached 8000000 ; States-in-collection: 9872623 ; Time: 1517681263.180210
+>>>Queue Stats: inserted=9872623 items_in_queue=1872623 extracted=8000000
+Reached 8100000 ; States-in-collection: 9982603 ; Time: 1517681265.267133
+>>>Queue Stats: inserted=9982603 items_in_queue=1882603 extracted=8100000
+Reached 8200000 ; States-in-collection: 10098463 ; Time: 1517681267.347779
+>>>Queue Stats: inserted=10098463 items_in_queue=1898463 extracted=8200000
+Reached 8300000 ; States-in-collection: 10211767 ; Time: 1517681269.452417
+>>>Queue Stats: inserted=10211767 items_in_queue=1911767 extracted=8300000
+Reached 8400000 ; States-in-collection: 10332268 ; Time: 1517681271.961181
+>>>Queue Stats: inserted=10332268 items_in_queue=1932268 extracted=8400000
+Reached 8500000 ; States-in-collection: 10447398 ; Time: 1517681274.019460
+>>>Queue Stats: inserted=10447398 items_in_queue=1947398 extracted=8500000
+Reached 8600000 ; States-in-collection: 10559112 ; Time: 1517681276.052729
+>>>Queue Stats: inserted=10559112 items_in_queue=1959112 extracted=8600000
+Reached 8700000 ; States-in-collection: 10667890 ; Time: 1517681278.382747
+>>>Queue Stats: inserted=10667890 items_in_queue=1967890 extracted=8700000
+Reached 8800000 ; States-in-collection: 10781424 ; Time: 1517681280.751573
+>>>Queue Stats: inserted=10781424 items_in_queue=1981424 extracted=8800000
+Reached 8900000 ; States-in-collection: 10885525 ; Time: 1517681282.691743
+>>>Queue Stats: inserted=10885525 items_in_queue=1985525 extracted=8900000
+Reached 9000000 ; States-in-collection: 10999818 ; Time: 1517681284.910560
+>>>Queue Stats: inserted=10999818 items_in_queue=1999818 extracted=9000000
+Reached 9100000 ; States-in-collection: 11118405 ; Time: 1517681287.496556
+>>>Queue Stats: inserted=11118405 items_in_queue=2018405 extracted=9100000
+Reached 9200000 ; States-in-collection: 11227875 ; Time: 1517681289.641833
+>>>Queue Stats: inserted=11227875 items_in_queue=2027875 extracted=9200000
+Reached 9300000 ; States-in-collection: 11336892 ; Time: 1517681291.674117
+>>>Queue Stats: inserted=11336892 items_in_queue=2036892 extracted=9300000
+Reached 9400000 ; States-in-collection: 11450514 ; Time: 1517681293.892060
+>>>Queue Stats: inserted=11450514 items_in_queue=2050514 extracted=9400000
+Reached 9500000 ; States-in-collection: 11563591 ; Time: 1517681296.216651
+>>>Queue Stats: inserted=11563591 items_in_queue=2063591 extracted=9500000
+Reached 9600000 ; States-in-collection: 11678971 ; Time: 1517681298.267016
+>>>Queue Stats: inserted=11678971 items_in_queue=2078971 extracted=9600000
+Reached 9700000 ; States-in-collection: 11794194 ; Time: 1517681300.357221
+>>>Queue Stats: inserted=11794194 items_in_queue=2094194 extracted=9700000
+Reached 9800000 ; States-in-collection: 11909662 ; Time: 1517681302.804283
+>>>Queue Stats: inserted=11909662 items_in_queue=2109662 extracted=9800000
+Reached 9900000 ; States-in-collection: 12026067 ; Time: 1517681305.176389
+>>>Queue Stats: inserted=12026067 items_in_queue=2126067 extracted=9900000
+Reached 10000000 ; States-in-collection: 12136755 ; Time: 1517681307.289877
+>>>Queue Stats: inserted=12136755 items_in_queue=2136755 extracted=10000000
+Reached 10100000 ; States-in-collection: 12250145 ; Time: 1517681309.599818
+>>>Queue Stats: inserted=12250145 items_in_queue=2150145 extracted=10100000
+Reached 10200000 ; States-in-collection: 12358869 ; Time: 1517681311.958858
+>>>Queue Stats: inserted=12358869 items_in_queue=2158869 extracted=10200000
+Reached 10300000 ; States-in-collection: 12475128 ; Time: 1517681314.149756
+>>>Queue Stats: inserted=12475128 items_in_queue=2175128 extracted=10300000
+Reached 10400000 ; States-in-collection: 12586845 ; Time: 1517681316.261241
+>>>Queue Stats: inserted=12586845 items_in_queue=2186845 extracted=10400000
+Reached 10500000 ; States-in-collection: 12700204 ; Time: 1517681318.678060
+>>>Queue Stats: inserted=12700204 items_in_queue=2200204 extracted=10500000
+Reached 10600000 ; States-in-collection: 12810388 ; Time: 1517681321.661117
+>>>Queue Stats: inserted=12810388 items_in_queue=2210388 extracted=10600000
+Reached 10700000 ; States-in-collection: 12917097 ; Time: 1517681325.306906
+>>>Queue Stats: inserted=12917097 items_in_queue=2217097 extracted=10700000
+Reached 10800000 ; States-in-collection: 13031320 ; Time: 1517681328.589827
+>>>Queue Stats: inserted=13031320 items_in_queue=2231320 extracted=10800000
+Reached 10900000 ; States-in-collection: 13135517 ; Time: 1517681330.882177
+>>>Queue Stats: inserted=13135517 items_in_queue=2235517 extracted=10900000
+Reached 11000000 ; States-in-collection: 13248767 ; Time: 1517681333.230297
+>>>Queue Stats: inserted=13248767 items_in_queue=2248767 extracted=11000000
+Reached 11100000 ; States-in-collection: 13363081 ; Time: 1517681335.459144
+>>>Queue Stats: inserted=13363081 items_in_queue=2263081 extracted=11100000
+Reached 11200000 ; States-in-collection: 13472801 ; Time: 1517681337.734932
+>>>Queue Stats: inserted=13472801 items_in_queue=2272801 extracted=11200000
+Reached 11300000 ; States-in-collection: 13581198 ; Time: 1517681340.094260
+>>>Queue Stats: inserted=13581198 items_in_queue=2281198 extracted=11300000
+Reached 11400000 ; States-in-collection: 13696312 ; Time: 1517681342.242979
+>>>Queue Stats: inserted=13696312 items_in_queue=2296312 extracted=11400000
+Reached 11500000 ; States-in-collection: 13809299 ; Time: 1517681344.410109
+>>>Queue Stats: inserted=13809299 items_in_queue=2309299 extracted=11500000
+Reached 11600000 ; States-in-collection: 13920197 ; Time: 1517681346.264221
+>>>Queue Stats: inserted=13920197 items_in_queue=2320197 extracted=11600000
+Reached 11700000 ; States-in-collection: 14030372 ; Time: 1517681348.066195
+>>>Queue Stats: inserted=14030372 items_in_queue=2330372 extracted=11700000
+Reached 11800000 ; States-in-collection: 14140115 ; Time: 1517681350.008060
+>>>Queue Stats: inserted=14140115 items_in_queue=2340115 extracted=11800000
+Reached 11900000 ; States-in-collection: 14253215 ; Time: 1517681352.155769
+>>>Queue Stats: inserted=14253215 items_in_queue=2353215 extracted=11900000
+Reached 12000000 ; States-in-collection: 14366829 ; Time: 1517681355.303217
+>>>Queue Stats: inserted=14366829 items_in_queue=2366829 extracted=12000000
+Reached 12100000 ; States-in-collection: 14474884 ; Time: 1517681358.015145
+>>>Queue Stats: inserted=14474884 items_in_queue=2374884 extracted=12100000
+Reached 12200000 ; States-in-collection: 14583679 ; Time: 1517681360.414591
+>>>Queue Stats: inserted=14583679 items_in_queue=2383679 extracted=12200000
+Reached 12300000 ; States-in-collection: 14699084 ; Time: 1517681362.654234
+>>>Queue Stats: inserted=14699084 items_in_queue=2399084 extracted=12300000
+Reached 12400000 ; States-in-collection: 14806845 ; Time: 1517681364.886696
+>>>Queue Stats: inserted=14806845 items_in_queue=2406845 extracted=12400000
+Reached 12500000 ; States-in-collection: 14920960 ; Time: 1517681367.415234
+>>>Queue Stats: inserted=14920960 items_in_queue=2420960 extracted=12500000
+Reached 12600000 ; States-in-collection: 15029170 ; Time: 1517681369.642153
+>>>Queue Stats: inserted=15029170 items_in_queue=2429170 extracted=12600000
+Reached 12700000 ; States-in-collection: 15143570 ; Time: 1517681371.777727
+>>>Queue Stats: inserted=15143570 items_in_queue=2443570 extracted=12700000
+Reached 12800000 ; States-in-collection: 15251110 ; Time: 1517681374.071905
+>>>Queue Stats: inserted=15251110 items_in_queue=2451110 extracted=12800000
+Reached 12900000 ; States-in-collection: 15359234 ; Time: 1517681376.654091
+>>>Queue Stats: inserted=15359234 items_in_queue=2459234 extracted=12900000
+Reached 13000000 ; States-in-collection: 15468325 ; Time: 1517681378.836415
+>>>Queue Stats: inserted=15468325 items_in_queue=2468325 extracted=13000000
+Reached 13100000 ; States-in-collection: 15577100 ; Time: 1517681381.054041
+>>>Queue Stats: inserted=15577100 items_in_queue=2477100 extracted=13100000
+Reached 13200000 ; States-in-collection: 15686830 ; Time: 1517681383.612634
+>>>Queue Stats: inserted=15686830 items_in_queue=2486830 extracted=13200000
+Reached 13300000 ; States-in-collection: 15795420 ; Time: 1517681385.882889
+>>>Queue Stats: inserted=15795420 items_in_queue=2495420 extracted=13300000
+Reached 13400000 ; States-in-collection: 15907210 ; Time: 1517681388.101704
+>>>Queue Stats: inserted=15907210 items_in_queue=2507210 extracted=13400000
+Reached 13500000 ; States-in-collection: 16020583 ; Time: 1517681390.610047
+>>>Queue Stats: inserted=16020583 items_in_queue=2520583 extracted=13500000
+Reached 13600000 ; States-in-collection: 16127317 ; Time: 1517681392.979139
+>>>Queue Stats: inserted=16127317 items_in_queue=2527317 extracted=13600000
+Reached 13700000 ; States-in-collection: 16237385 ; Time: 1517681395.165977
+>>>Queue Stats: inserted=16237385 items_in_queue=2537385 extracted=13700000
+Reached 13800000 ; States-in-collection: 16353438 ; Time: 1517681397.563675
+>>>Queue Stats: inserted=16353438 items_in_queue=2553438 extracted=13800000
+Reached 13900000 ; States-in-collection: 16461684 ; Time: 1517681399.959771
+>>>Queue Stats: inserted=16461684 items_in_queue=2561684 extracted=13900000
+Reached 14000000 ; States-in-collection: 16572571 ; Time: 1517681403.511090
+>>>Queue Stats: inserted=16572571 items_in_queue=2572571 extracted=14000000
+Reached 14100000 ; States-in-collection: 16687619 ; Time: 1517681407.065557
+>>>Queue Stats: inserted=16687619 items_in_queue=2587619 extracted=14100000
+Reached 14200000 ; States-in-collection: 16800270 ; Time: 1517681409.857469
+>>>Queue Stats: inserted=16800270 items_in_queue=2600270 extracted=14200000
+Reached 14300000 ; States-in-collection: 16905145 ; Time: 1517681412.260862
+>>>Queue Stats: inserted=16905145 items_in_queue=2605145 extracted=14300000
+Reached 14400000 ; States-in-collection: 17018357 ; Time: 1517681414.551655
+>>>Queue Stats: inserted=17018357 items_in_queue=2618357 extracted=14400000
+Reached 14500000 ; States-in-collection: 17126939 ; Time: 1517681416.824119
+>>>Queue Stats: inserted=17126939 items_in_queue=2626939 extracted=14500000
+Reached 14600000 ; States-in-collection: 17238113 ; Time: 1517681419.325067
+>>>Queue Stats: inserted=17238113 items_in_queue=2638113 extracted=14600000
+Reached 14700000 ; States-in-collection: 17352896 ; Time: 1517681421.708566
+>>>Queue Stats: inserted=17352896 items_in_queue=2652896 extracted=14700000
+Reached 14800000 ; States-in-collection: 17462222 ; Time: 1517681423.818904
+>>>Queue Stats: inserted=17462222 items_in_queue=2662222 extracted=14800000
+Reached 14900000 ; States-in-collection: 17572465 ; Time: 1517681426.156524
+>>>Queue Stats: inserted=17572465 items_in_queue=2672465 extracted=14900000
+Reached 15000000 ; States-in-collection: 17679747 ; Time: 1517681428.631524
+>>>Queue Stats: inserted=17679747 items_in_queue=2679747 extracted=15000000
+Reached 15100000 ; States-in-collection: 17796011 ; Time: 1517681430.919447
+>>>Queue Stats: inserted=17796011 items_in_queue=2696011 extracted=15100000
+Reached 15200000 ; States-in-collection: 17896927 ; Time: 1517681433.088384
+>>>Queue Stats: inserted=17896927 items_in_queue=2696927 extracted=15200000
+Reached 15300000 ; States-in-collection: 17997961 ; Time: 1517681435.671789
+>>>Queue Stats: inserted=17997961 items_in_queue=2697961 extracted=15300000
+Reached 15400000 ; States-in-collection: 18102155 ; Time: 1517681437.959657
+>>>Queue Stats: inserted=18102155 items_in_queue=2702155 extracted=15400000
+Reached 15500000 ; States-in-collection: 18204632 ; Time: 1517681440.203656
+>>>Queue Stats: inserted=18204632 items_in_queue=2704632 extracted=15500000
+Reached 15600000 ; States-in-collection: 18311802 ; Time: 1517681442.601916
+>>>Queue Stats: inserted=18311802 items_in_queue=2711802 extracted=15600000
+Reached 15700000 ; States-in-collection: 18419659 ; Time: 1517681445.123687
+>>>Queue Stats: inserted=18419659 items_in_queue=2719659 extracted=15700000
+Reached 15800000 ; States-in-collection: 18530748 ; Time: 1517681447.345892
+>>>Queue Stats: inserted=18530748 items_in_queue=2730748 extracted=15800000
+Reached 15900000 ; States-in-collection: 18636654 ; Time: 1517681449.692657
+>>>Queue Stats: inserted=18636654 items_in_queue=2736654 extracted=15900000
+Reached 16000000 ; States-in-collection: 18749615 ; Time: 1517681452.395756
+>>>Queue Stats: inserted=18749615 items_in_queue=2749615 extracted=16000000
+Reached 16100000 ; States-in-collection: 18857771 ; Time: 1517681454.586906
+>>>Queue Stats: inserted=18857771 items_in_queue=2757771 extracted=16100000
+Reached 16200000 ; States-in-collection: 18971470 ; Time: 1517681456.937299
+>>>Queue Stats: inserted=18971470 items_in_queue=2771470 extracted=16200000
+Reached 16300000 ; States-in-collection: 19080471 ; Time: 1517681459.485042
+>>>Queue Stats: inserted=19080471 items_in_queue=2780471 extracted=16300000
+Reached 16400000 ; States-in-collection: 19187476 ; Time: 1517681461.768152
+>>>Queue Stats: inserted=19187476 items_in_queue=2787476 extracted=16400000
+Reached 16500000 ; States-in-collection: 19303119 ; Time: 1517681464.066941
+>>>Queue Stats: inserted=19303119 items_in_queue=2803119 extracted=16500000
+Reached 16600000 ; States-in-collection: 19411110 ; Time: 1517681466.396684
+>>>Queue Stats: inserted=19411110 items_in_queue=2811110 extracted=16600000
+Reached 16700000 ; States-in-collection: 19518912 ; Time: 1517681468.919761
+>>>Queue Stats: inserted=19518912 items_in_queue=2818912 extracted=16700000
+Reached 16800000 ; States-in-collection: 19633986 ; Time: 1517681471.216415
+>>>Queue Stats: inserted=19633986 items_in_queue=2833986 extracted=16800000
+Reached 16900000 ; States-in-collection: 19739605 ; Time: 1517681473.216518
+>>>Queue Stats: inserted=19739605 items_in_queue=2839605 extracted=16900000
+Reached 17000000 ; States-in-collection: 19846289 ; Time: 1517681475.205713
+>>>Queue Stats: inserted=19846289 items_in_queue=2846289 extracted=17000000
+Reached 17100000 ; States-in-collection: 19956796 ; Time: 1517681477.302358
+>>>Queue Stats: inserted=19956796 items_in_queue=2856796 extracted=17100000
+Reached 17200000 ; States-in-collection: 20062928 ; Time: 1517681479.555763
+>>>Queue Stats: inserted=20062928 items_in_queue=2862928 extracted=17200000
+Reached 17300000 ; States-in-collection: 20179269 ; Time: 1517681482.726170
+>>>Queue Stats: inserted=20179269 items_in_queue=2879269 extracted=17300000
+Reached 17400000 ; States-in-collection: 20283954 ; Time: 1517681485.575330
+>>>Queue Stats: inserted=20283954 items_in_queue=2883954 extracted=17400000
+Reached 17500000 ; States-in-collection: 20397132 ; Time: 1517681488.117576
+>>>Queue Stats: inserted=20397132 items_in_queue=2897132 extracted=17500000
+Reached 17600000 ; States-in-collection: 20506032 ; Time: 1517681490.364378
+>>>Queue Stats: inserted=20506032 items_in_queue=2906032 extracted=17600000
+Reached 17700000 ; States-in-collection: 20613785 ; Time: 1517681492.563752
+>>>Queue Stats: inserted=20613785 items_in_queue=2913785 extracted=17700000
+Reached 17800000 ; States-in-collection: 20727312 ; Time: 1517681495.248643
+>>>Queue Stats: inserted=20727312 items_in_queue=2927312 extracted=17800000
+Reached 17900000 ; States-in-collection: 20825998 ; Time: 1517681498.104098
+>>>Queue Stats: inserted=20825998 items_in_queue=2925998 extracted=17900000
+Reached 18000000 ; States-in-collection: 20926149 ; Time: 1517681501.785171
+>>>Queue Stats: inserted=20926149 items_in_queue=2926149 extracted=18000000
+Reached 18100000 ; States-in-collection: 21029016 ; Time: 1517681504.990678
+>>>Queue Stats: inserted=21029016 items_in_queue=2929016 extracted=18100000
+Reached 18200000 ; States-in-collection: 21131428 ; Time: 1517681507.650579
+>>>Queue Stats: inserted=21131428 items_in_queue=2931428 extracted=18200000
+Reached 18300000 ; States-in-collection: 21235597 ; Time: 1517681510.028188
+>>>Queue Stats: inserted=21235597 items_in_queue=2935597 extracted=18300000
+Reached 18400000 ; States-in-collection: 21337030 ; Time: 1517681512.305045
+>>>Queue Stats: inserted=21337030 items_in_queue=2937030 extracted=18400000
+Reached 18500000 ; States-in-collection: 21440063 ; Time: 1517681514.738409
+>>>Queue Stats: inserted=21440063 items_in_queue=2940063 extracted=18500000
+Reached 18600000 ; States-in-collection: 21541937 ; Time: 1517681517.229965
+>>>Queue Stats: inserted=21541937 items_in_queue=2941937 extracted=18600000
+Reached 18700000 ; States-in-collection: 21650871 ; Time: 1517681519.458700
+>>>Queue Stats: inserted=21650871 items_in_queue=2950871 extracted=18700000
+Reached 18800000 ; States-in-collection: 21759342 ; Time: 1517681521.886570
+>>>Queue Stats: inserted=21759342 items_in_queue=2959342 extracted=18800000
+Reached 18900000 ; States-in-collection: 21868646 ; Time: 1517681524.533772
+>>>Queue Stats: inserted=21868646 items_in_queue=2968646 extracted=18900000
+Reached 19000000 ; States-in-collection: 21976332 ; Time: 1517681526.792929
+>>>Queue Stats: inserted=21976332 items_in_queue=2976332 extracted=19000000
+Reached 19100000 ; States-in-collection: 22087967 ; Time: 1517681529.117718
+>>>Queue Stats: inserted=22087967 items_in_queue=2987967 extracted=19100000
+Reached 19200000 ; States-in-collection: 22194719 ; Time: 1517681531.635919
+>>>Queue Stats: inserted=22194719 items_in_queue=2994719 extracted=19200000
+Reached 19300000 ; States-in-collection: 22308282 ; Time: 1517681534.054252
+>>>Queue Stats: inserted=22308282 items_in_queue=3008282 extracted=19300000
+Reached 19400000 ; States-in-collection: 22413928 ; Time: 1517681536.277393
+>>>Queue Stats: inserted=22413928 items_in_queue=3013928 extracted=19400000
+Reached 19500000 ; States-in-collection: 22527221 ; Time: 1517681538.858725
+>>>Queue Stats: inserted=22527221 items_in_queue=3027221 extracted=19500000
+Reached 19600000 ; States-in-collection: 22637993 ; Time: 1517681541.358538
+>>>Queue Stats: inserted=22637993 items_in_queue=3037993 extracted=19600000
+Reached 19700000 ; States-in-collection: 22744474 ; Time: 1517681543.555980
+>>>Queue Stats: inserted=22744474 items_in_queue=3044474 extracted=19700000
+Reached 19800000 ; States-in-collection: 22844961 ; Time: 1517681545.962248
+>>>Queue Stats: inserted=22844961 items_in_queue=3044961 extracted=19800000
+Reached 19900000 ; States-in-collection: 22950332 ; Time: 1517681548.538808
+>>>Queue Stats: inserted=22950332 items_in_queue=3050332 extracted=19900000
+Reached 20000000 ; States-in-collection: 23050548 ; Time: 1517681550.831835
+>>>Queue Stats: inserted=23050548 items_in_queue=3050548 extracted=20000000
+Reached 20100000 ; States-in-collection: 23157709 ; Time: 1517681553.082609
+>>>Queue Stats: inserted=23157709 items_in_queue=3057709 extracted=20100000
+Reached 20200000 ; States-in-collection: 23270138 ; Time: 1517681555.780190
+>>>Queue Stats: inserted=23270138 items_in_queue=3070138 extracted=20200000
+Reached 20300000 ; States-in-collection: 23374134 ; Time: 1517681559.244015
+>>>Queue Stats: inserted=23374134 items_in_queue=3074134 extracted=20300000
+Reached 20400000 ; States-in-collection: 23487445 ; Time: 1517681563.005157
+>>>Queue Stats: inserted=23487445 items_in_queue=3087445 extracted=20400000
+Reached 20500000 ; States-in-collection: 23596450 ; Time: 1517681566.066079
+>>>Queue Stats: inserted=23596450 items_in_queue=3096450 extracted=20500000
+Reached 20600000 ; States-in-collection: 23703732 ; Time: 1517681568.649135
+>>>Queue Stats: inserted=23703732 items_in_queue=3103732 extracted=20600000
+Reached 20700000 ; States-in-collection: 23813508 ; Time: 1517681571.027873
+>>>Queue Stats: inserted=23813508 items_in_queue=3113508 extracted=20700000
+Reached 20800000 ; States-in-collection: 23917398 ; Time: 1517681573.299383
+>>>Queue Stats: inserted=23917398 items_in_queue=3117398 extracted=20800000
+Reached 20900000 ; States-in-collection: 24009334 ; Time: 1517681575.850848
+>>>Queue Stats: inserted=24009334 items_in_queue=3109334 extracted=20900000
+Reached 21000000 ; States-in-collection: 24110970 ; Time: 1517681578.074360
+>>>Queue Stats: inserted=24110970 items_in_queue=3110970 extracted=21000000
+Reached 21100000 ; States-in-collection: 24200425 ; Time: 1517681580.226659
+>>>Queue Stats: inserted=24200425 items_in_queue=3100425 extracted=21100000
+Reached 21200000 ; States-in-collection: 24304267 ; Time: 1517681582.821602
+>>>Queue Stats: inserted=24304267 items_in_queue=3104267 extracted=21200000
+Reached 21300000 ; States-in-collection: 24400002 ; Time: 1517681585.248788
+>>>Queue Stats: inserted=24400002 items_in_queue=3100002 extracted=21300000
+Reached 21400000 ; States-in-collection: 24505104 ; Time: 1517681587.601833
+>>>Queue Stats: inserted=24505104 items_in_queue=3105104 extracted=21400000
+Reached 21500000 ; States-in-collection: 24601580 ; Time: 1517681590.025886
+>>>Queue Stats: inserted=24601580 items_in_queue=3101580 extracted=21500000
+Reached 21600000 ; States-in-collection: 24708533 ; Time: 1517681592.653991
+>>>Queue Stats: inserted=24708533 items_in_queue=3108533 extracted=21600000
+Reached 21700000 ; States-in-collection: 24807887 ; Time: 1517681594.894653
+>>>Queue Stats: inserted=24807887 items_in_queue=3107887 extracted=21700000
+Reached 21800000 ; States-in-collection: 24912921 ; Time: 1517681597.159815
+>>>Queue Stats: inserted=24912921 items_in_queue=3112921 extracted=21800000
+Reached 21900000 ; States-in-collection: 25013204 ; Time: 1517681599.705353
+>>>Queue Stats: inserted=25013204 items_in_queue=3113204 extracted=21900000
+Reached 22000000 ; States-in-collection: 25121126 ; Time: 1517681602.117821
+>>>Queue Stats: inserted=25121126 items_in_queue=3121126 extracted=22000000
+Reached 22100000 ; States-in-collection: 25229857 ; Time: 1517681604.479617
+>>>Queue Stats: inserted=25229857 items_in_queue=3129857 extracted=22100000
+Reached 22200000 ; States-in-collection: 25337925 ; Time: 1517681606.995560
+>>>Queue Stats: inserted=25337925 items_in_queue=3137925 extracted=22200000
+Reached 22300000 ; States-in-collection: 25446172 ; Time: 1517681609.571188
+>>>Queue Stats: inserted=25446172 items_in_queue=3146172 extracted=22300000
+Reached 22400000 ; States-in-collection: 25554284 ; Time: 1517681611.773672
+>>>Queue Stats: inserted=25554284 items_in_queue=3154284 extracted=22400000
+Reached 22500000 ; States-in-collection: 25663332 ; Time: 1517681614.406836
+>>>Queue Stats: inserted=25663332 items_in_queue=3163332 extracted=22500000
+Reached 22600000 ; States-in-collection: 25773704 ; Time: 1517681616.983499
+>>>Queue Stats: inserted=25773704 items_in_queue=3173704 extracted=22600000
+Reached 22700000 ; States-in-collection: 25879712 ; Time: 1517681619.284668
+>>>Queue Stats: inserted=25879712 items_in_queue=3179712 extracted=22700000
+Reached 22800000 ; States-in-collection: 25978157 ; Time: 1517681621.624881
+>>>Queue Stats: inserted=25978157 items_in_queue=3178157 extracted=22800000
+Reached 22900000 ; States-in-collection: 26081179 ; Time: 1517681624.293276
+>>>Queue Stats: inserted=26081179 items_in_queue=3181179 extracted=22900000
+Reached 23000000 ; States-in-collection: 26182153 ; Time: 1517681626.595512
+>>>Queue Stats: inserted=26182153 items_in_queue=3182153 extracted=23000000
+Reached 23100000 ; States-in-collection: 26285569 ; Time: 1517681628.936005
+>>>Queue Stats: inserted=26285569 items_in_queue=3185569 extracted=23100000
+Reached 23200000 ; States-in-collection: 26393828 ; Time: 1517681630.998562
+>>>Queue Stats: inserted=26393828 items_in_queue=3193828 extracted=23200000
+Reached 23300000 ; States-in-collection: 26502540 ; Time: 1517681633.061604
+>>>Queue Stats: inserted=26502540 items_in_queue=3202540 extracted=23300000
+Reached 23400000 ; States-in-collection: 26608730 ; Time: 1517681635.404396
+>>>Queue Stats: inserted=26608730 items_in_queue=3208730 extracted=23400000
+Reached 23500000 ; States-in-collection: 26719087 ; Time: 1517681638.230283
+>>>Queue Stats: inserted=26719087 items_in_queue=3219087 extracted=23500000
+Reached 23600000 ; States-in-collection: 26819528 ; Time: 1517681641.415019
+>>>Queue Stats: inserted=26819528 items_in_queue=3219528 extracted=23600000
+Reached 23700000 ; States-in-collection: 26923237 ; Time: 1517681644.036357
+>>>Queue Stats: inserted=26923237 items_in_queue=3223237 extracted=23700000
+Reached 23800000 ; States-in-collection: 27024734 ; Time: 1517681646.448877
+>>>Queue Stats: inserted=27024734 items_in_queue=3224734 extracted=23800000
+Reached 23900000 ; States-in-collection: 27132699 ; Time: 1517681648.725576
+>>>Queue Stats: inserted=27132699 items_in_queue=3232699 extracted=23900000
+Reached 24000000 ; States-in-collection: 27217213 ; Time: 1517681651.196531
+>>>Queue Stats: inserted=27217213 items_in_queue=3217213 extracted=24000000
+Reached 24100000 ; States-in-collection: 27319741 ; Time: 1517681653.623352
+>>>Queue Stats: inserted=27319741 items_in_queue=3219741 extracted=24100000
+Reached 24200000 ; States-in-collection: 27404974 ; Time: 1517681655.798066
+>>>Queue Stats: inserted=27404974 items_in_queue=3204974 extracted=24200000
+Reached 24300000 ; States-in-collection: 27508490 ; Time: 1517681658.306444
+>>>Queue Stats: inserted=27508490 items_in_queue=3208490 extracted=24300000
+Reached 24400000 ; States-in-collection: 27600110 ; Time: 1517681660.796784
+>>>Queue Stats: inserted=27600110 items_in_queue=3200110 extracted=24400000
+Reached 24500000 ; States-in-collection: 27698537 ; Time: 1517681663.070469
+>>>Queue Stats: inserted=27698537 items_in_queue=3198537 extracted=24500000
+Reached 24600000 ; States-in-collection: 27787189 ; Time: 1517681665.334428
+>>>Queue Stats: inserted=27787189 items_in_queue=3187189 extracted=24600000
+Reached 24700000 ; States-in-collection: 27889481 ; Time: 1517681667.993700
+>>>Queue Stats: inserted=27889481 items_in_queue=3189481 extracted=24700000
+Reached 24800000 ; States-in-collection: 27985302 ; Time: 1517681670.357772
+>>>Queue Stats: inserted=27985302 items_in_queue=3185302 extracted=24800000
+Reached 24900000 ; States-in-collection: 28089765 ; Time: 1517681672.692476
+>>>Queue Stats: inserted=28089765 items_in_queue=3189765 extracted=24900000
+Reached 25000000 ; States-in-collection: 28186820 ; Time: 1517681675.379575
+>>>Queue Stats: inserted=28186820 items_in_queue=3186820 extracted=25000000
+Reached 25100000 ; States-in-collection: 28293085 ; Time: 1517681677.884247
+>>>Queue Stats: inserted=28293085 items_in_queue=3193085 extracted=25100000
+Reached 25200000 ; States-in-collection: 28394943 ; Time: 1517681680.215635
+>>>Queue Stats: inserted=28394943 items_in_queue=3194943 extracted=25200000
+Reached 25300000 ; States-in-collection: 28498217 ; Time: 1517681682.798888
+>>>Queue Stats: inserted=28498217 items_in_queue=3198217 extracted=25300000
+Reached 25400000 ; States-in-collection: 28600162 ; Time: 1517681685.379354
+>>>Queue Stats: inserted=28600162 items_in_queue=3200162 extracted=25400000
+Reached 25500000 ; States-in-collection: 28704415 ; Time: 1517681687.670698
+>>>Queue Stats: inserted=28704415 items_in_queue=3204415 extracted=25500000
+Reached 25600000 ; States-in-collection: 28806432 ; Time: 1517681690.192684
+>>>Queue Stats: inserted=28806432 items_in_queue=3206432 extracted=25600000
+Reached 25700000 ; States-in-collection: 28909628 ; Time: 1517681692.796825
+>>>Queue Stats: inserted=28909628 items_in_queue=3209628 extracted=25700000
+Reached 25800000 ; States-in-collection: 29013877 ; Time: 1517681695.129298
+>>>Queue Stats: inserted=29013877 items_in_queue=3213877 extracted=25800000
+Reached 25900000 ; States-in-collection: 29117098 ; Time: 1517681697.503361
+>>>Queue Stats: inserted=29117098 items_in_queue=3217098 extracted=25900000
+Reached 26000000 ; States-in-collection: 29207531 ; Time: 1517681700.006552
+>>>Queue Stats: inserted=29207531 items_in_queue=3207531 extracted=26000000
+Reached 26100000 ; States-in-collection: 29309056 ; Time: 1517681702.368818
+>>>Queue Stats: inserted=29309056 items_in_queue=3209056 extracted=26100000
+Reached 26200000 ; States-in-collection: 29399854 ; Time: 1517681704.660318
+>>>Queue Stats: inserted=29399854 items_in_queue=3199854 extracted=26200000
+Reached 26300000 ; States-in-collection: 29500209 ; Time: 1517681707.245529
+>>>Queue Stats: inserted=29500209 items_in_queue=3200209 extracted=26300000
+Reached 26400000 ; States-in-collection: 29603920 ; Time: 1517681709.837025
+>>>Queue Stats: inserted=29603920 items_in_queue=3203920 extracted=26400000
+Reached 26500000 ; States-in-collection: 29706858 ; Time: 1517681712.125750
+>>>Queue Stats: inserted=29706858 items_in_queue=3206858 extracted=26500000
+Reached 26600000 ; States-in-collection: 29807549 ; Time: 1517681714.601332
+>>>Queue Stats: inserted=29807549 items_in_queue=3207549 extracted=26600000
+Reached 26700000 ; States-in-collection: 29910912 ; Time: 1517681717.197355
+>>>Queue Stats: inserted=29910912 items_in_queue=3210912 extracted=26700000
+Reached 26800000 ; States-in-collection: 30013028 ; Time: 1517681719.517298
+>>>Queue Stats: inserted=30013028 items_in_queue=3213028 extracted=26800000
+Reached 26900000 ; States-in-collection: 30112935 ; Time: 1517681721.926895
+>>>Queue Stats: inserted=30112935 items_in_queue=3212935 extracted=26900000
+Reached 27000000 ; States-in-collection: 30212590 ; Time: 1517681724.586752
+>>>Queue Stats: inserted=30212590 items_in_queue=3212590 extracted=27000000
+Reached 27100000 ; States-in-collection: 30317814 ; Time: 1517681726.951528
+>>>Queue Stats: inserted=30317814 items_in_queue=3217814 extracted=27100000
+Reached 27200000 ; States-in-collection: 30408699 ; Time: 1517681729.195260
+>>>Queue Stats: inserted=30408699 items_in_queue=3208699 extracted=27200000
+Reached 27300000 ; States-in-collection: 30498621 ; Time: 1517681731.729305
+>>>Queue Stats: inserted=30498621 items_in_queue=3198621 extracted=27300000
+Reached 27400000 ; States-in-collection: 30585159 ; Time: 1517681734.094082
+>>>Queue Stats: inserted=30585159 items_in_queue=3185159 extracted=27400000
+Reached 27500000 ; States-in-collection: 30681299 ; Time: 1517681736.354393
+>>>Queue Stats: inserted=30681299 items_in_queue=3181299 extracted=27500000
+Reached 27600000 ; States-in-collection: 30769715 ; Time: 1517681738.768194
+>>>Queue Stats: inserted=30769715 items_in_queue=3169715 extracted=27600000
+Reached 27700000 ; States-in-collection: 30869174 ; Time: 1517681741.287643
+>>>Queue Stats: inserted=30869174 items_in_queue=3169174 extracted=27700000
+Reached 27800000 ; States-in-collection: 30955261 ; Time: 1517681743.492105
+>>>Queue Stats: inserted=30955261 items_in_queue=3155261 extracted=27800000
+Reached 27900000 ; States-in-collection: 31058022 ; Time: 1517681745.977935
+>>>Queue Stats: inserted=31058022 items_in_queue=3158022 extracted=27900000
+Reached 28000000 ; States-in-collection: 31146809 ; Time: 1517681748.526179
+>>>Queue Stats: inserted=31146809 items_in_queue=3146809 extracted=28000000
+Reached 28100000 ; States-in-collection: 31247309 ; Time: 1517681750.790385
+>>>Queue Stats: inserted=31247309 items_in_queue=3147309 extracted=28100000
+Reached 28200000 ; States-in-collection: 31337587 ; Time: 1517681753.048462
+>>>Queue Stats: inserted=31337587 items_in_queue=3137587 extracted=28200000
+Reached 28300000 ; States-in-collection: 31438852 ; Time: 1517681755.675933
+>>>Queue Stats: inserted=31438852 items_in_queue=3138852 extracted=28300000
+Reached 28400000 ; States-in-collection: 31535582 ; Time: 1517681758.091277
+>>>Queue Stats: inserted=31535582 items_in_queue=3135582 extracted=28400000
+Reached 28500000 ; States-in-collection: 31639354 ; Time: 1517681760.403181
+>>>Queue Stats: inserted=31639354 items_in_queue=3139354 extracted=28500000
+Reached 28600000 ; States-in-collection: 31736509 ; Time: 1517681763.106693
+>>>Queue Stats: inserted=31736509 items_in_queue=3136509 extracted=28600000
+Reached 28700000 ; States-in-collection: 31843261 ; Time: 1517681765.739181
+>>>Queue Stats: inserted=31843261 items_in_queue=3143261 extracted=28700000
+Reached 28800000 ; States-in-collection: 31940690 ; Time: 1517681768.052290
+>>>Queue Stats: inserted=31940690 items_in_queue=3140690 extracted=28800000
+Reached 28900000 ; States-in-collection: 32043914 ; Time: 1517681770.178533
+>>>Queue Stats: inserted=32043914 items_in_queue=3143914 extracted=28900000
+Reached 29000000 ; States-in-collection: 32143679 ; Time: 1517681772.210481
+>>>Queue Stats: inserted=32143679 items_in_queue=3143679 extracted=29000000
+Reached 29100000 ; States-in-collection: 32247232 ; Time: 1517681774.508588
+>>>Queue Stats: inserted=32247232 items_in_queue=3147232 extracted=29100000
+Reached 29200000 ; States-in-collection: 32337581 ; Time: 1517681776.722994
+>>>Queue Stats: inserted=32337581 items_in_queue=3137581 extracted=29200000
+Reached 29300000 ; States-in-collection: 32434961 ; Time: 1517681780.122896
+>>>Queue Stats: inserted=32434961 items_in_queue=3134961 extracted=29300000
+Reached 29400000 ; States-in-collection: 32525570 ; Time: 1517681782.926662
+>>>Queue Stats: inserted=32525570 items_in_queue=3125570 extracted=29400000
+Reached 29500000 ; States-in-collection: 32623275 ; Time: 1517681785.842982
+>>>Queue Stats: inserted=32623275 items_in_queue=3123275 extracted=29500000
+Reached 29600000 ; States-in-collection: 32724794 ; Time: 1517681789.340298
+>>>Queue Stats: inserted=32724794 items_in_queue=3124794 extracted=29600000
+Reached 29700000 ; States-in-collection: 32826144 ; Time: 1517681792.059701
+>>>Queue Stats: inserted=32826144 items_in_queue=3126144 extracted=29700000
+Reached 29800000 ; States-in-collection: 32926815 ; Time: 1517681794.488011
+>>>Queue Stats: inserted=32926815 items_in_queue=3126815 extracted=29800000
+Reached 29900000 ; States-in-collection: 33027497 ; Time: 1517681796.784358
+>>>Queue Stats: inserted=33027497 items_in_queue=3127497 extracted=29900000
+Reached 30000000 ; States-in-collection: 33124574 ; Time: 1517681799.408954
+>>>Queue Stats: inserted=33124574 items_in_queue=3124574 extracted=30000000
+Reached 30100000 ; States-in-collection: 33221319 ; Time: 1517681802.791155
+>>>Queue Stats: inserted=33221319 items_in_queue=3121319 extracted=30100000
+Reached 30200000 ; States-in-collection: 33316390 ; Time: 1517681806.557876
+>>>Queue Stats: inserted=33316390 items_in_queue=3116390 extracted=30200000
+Reached 30300000 ; States-in-collection: 33412452 ; Time: 1517681809.785615
+>>>Queue Stats: inserted=33412452 items_in_queue=3112452 extracted=30300000
+Reached 30400000 ; States-in-collection: 33501540 ; Time: 1517681812.355231
+>>>Queue Stats: inserted=33501540 items_in_queue=3101540 extracted=30400000
+Reached 30500000 ; States-in-collection: 33585961 ; Time: 1517681814.583220
+>>>Queue Stats: inserted=33585961 items_in_queue=3085961 extracted=30500000
+Reached 30600000 ; States-in-collection: 33663409 ; Time: 1517681816.714076
+>>>Queue Stats: inserted=33663409 items_in_queue=3063409 extracted=30600000
+Reached 30700000 ; States-in-collection: 33755356 ; Time: 1517681819.345612
+>>>Queue Stats: inserted=33755356 items_in_queue=3055356 extracted=30700000
+Reached 30800000 ; States-in-collection: 33838446 ; Time: 1517681821.689278
+>>>Queue Stats: inserted=33838446 items_in_queue=3038446 extracted=30800000
+Reached 30900000 ; States-in-collection: 33932104 ; Time: 1517681823.928628
+>>>Queue Stats: inserted=33932104 items_in_queue=3032104 extracted=30900000
+Reached 31000000 ; States-in-collection: 34017554 ; Time: 1517681826.347277
+>>>Queue Stats: inserted=34017554 items_in_queue=3017554 extracted=31000000
+Reached 31100000 ; States-in-collection: 34112967 ; Time: 1517681828.888702
+>>>Queue Stats: inserted=34112967 items_in_queue=3012967 extracted=31100000
+Reached 31200000 ; States-in-collection: 34202561 ; Time: 1517681831.170861
+>>>Queue Stats: inserted=34202561 items_in_queue=3002561 extracted=31200000
+Reached 31300000 ; States-in-collection: 34297569 ; Time: 1517681833.469584
+>>>Queue Stats: inserted=34297569 items_in_queue=2997569 extracted=31300000
+Reached 31400000 ; States-in-collection: 34390802 ; Time: 1517681836.146416
+>>>Queue Stats: inserted=34390802 items_in_queue=2990802 extracted=31400000
+Reached 31500000 ; States-in-collection: 34488008 ; Time: 1517681838.461664
+>>>Queue Stats: inserted=34488008 items_in_queue=2988008 extracted=31500000
+Reached 31600000 ; States-in-collection: 34583134 ; Time: 1517681840.787171
+>>>Queue Stats: inserted=34583134 items_in_queue=2983134 extracted=31600000
+Reached 31700000 ; States-in-collection: 34680895 ; Time: 1517681843.431540
+>>>Queue Stats: inserted=34680895 items_in_queue=2980895 extracted=31700000
+Reached 31800000 ; States-in-collection: 34775071 ; Time: 1517681845.921558
+>>>Queue Stats: inserted=34775071 items_in_queue=2975071 extracted=31800000
+Reached 31900000 ; States-in-collection: 34874361 ; Time: 1517681848.184839
+>>>Queue Stats: inserted=34874361 items_in_queue=2974361 extracted=31900000
+Reached 32000000 ; States-in-collection: 34966856 ; Time: 1517681850.775361
+>>>Queue Stats: inserted=34966856 items_in_queue=2966856 extracted=32000000
+Reached 32100000 ; States-in-collection: 35065861 ; Time: 1517681853.359256
+>>>Queue Stats: inserted=35065861 items_in_queue=2965861 extracted=32100000
+Reached 32200000 ; States-in-collection: 35157900 ; Time: 1517681855.657737
+>>>Queue Stats: inserted=35157900 items_in_queue=2957900 extracted=32200000
+Reached 32300000 ; States-in-collection: 35257246 ; Time: 1517681858.072796
+>>>Queue Stats: inserted=35257246 items_in_queue=2957246 extracted=32300000
+Reached 32400000 ; States-in-collection: 35341679 ; Time: 1517681860.631972
+>>>Queue Stats: inserted=35341679 items_in_queue=2941679 extracted=32400000
+Reached 32500000 ; States-in-collection: 35435433 ; Time: 1517681862.927184
+>>>Queue Stats: inserted=35435433 items_in_queue=2935433 extracted=32500000
+Reached 32600000 ; States-in-collection: 35520005 ; Time: 1517681865.128543
+>>>Queue Stats: inserted=35520005 items_in_queue=2920005 extracted=32600000
+Reached 32700000 ; States-in-collection: 35615835 ; Time: 1517681867.765120
+>>>Queue Stats: inserted=35615835 items_in_queue=2915835 extracted=32700000
+Reached 32800000 ; States-in-collection: 35711983 ; Time: 1517681870.250456
+>>>Queue Stats: inserted=35711983 items_in_queue=2911983 extracted=32800000
+Reached 32900000 ; States-in-collection: 35810885 ; Time: 1517681872.506531
+>>>Queue Stats: inserted=35810885 items_in_queue=2910885 extracted=32900000
+Reached 33000000 ; States-in-collection: 35902781 ; Time: 1517681874.531563
+>>>Queue Stats: inserted=35902781 items_in_queue=2902781 extracted=33000000
+Reached 33100000 ; States-in-collection: 35999890 ; Time: 1517681876.508205
+>>>Queue Stats: inserted=35999890 items_in_queue=2899890 extracted=33100000
+Reached 33200000 ; States-in-collection: 36090681 ; Time: 1517681878.760374
+>>>Queue Stats: inserted=36090681 items_in_queue=2890681 extracted=33200000
+Reached 33300000 ; States-in-collection: 36187600 ; Time: 1517681881.127122
+>>>Queue Stats: inserted=36187600 items_in_queue=2887600 extracted=33300000
+Reached 33400000 ; States-in-collection: 36278145 ; Time: 1517681884.701526
+>>>Queue Stats: inserted=36278145 items_in_queue=2878145 extracted=33400000
+Reached 33500000 ; States-in-collection: 36370940 ; Time: 1517681887.320564
+>>>Queue Stats: inserted=36370940 items_in_queue=2870940 extracted=33500000
+Reached 33600000 ; States-in-collection: 36448379 ; Time: 1517681889.596691
+>>>Queue Stats: inserted=36448379 items_in_queue=2848379 extracted=33600000
+Reached 33700000 ; States-in-collection: 36521671 ; Time: 1517681891.667663
+>>>Queue Stats: inserted=36521671 items_in_queue=2821671 extracted=33700000
+Reached 33800000 ; States-in-collection: 36603193 ; Time: 1517681893.957901
+>>>Queue Stats: inserted=36603193 items_in_queue=2803193 extracted=33800000
+Reached 33900000 ; States-in-collection: 36687008 ; Time: 1517681896.505075
+>>>Queue Stats: inserted=36687008 items_in_queue=2787008 extracted=33900000
+Reached 34000000 ; States-in-collection: 36762604 ; Time: 1517681898.665346
+>>>Queue Stats: inserted=36762604 items_in_queue=2762604 extracted=34000000
+Reached 34100000 ; States-in-collection: 36853206 ; Time: 1517681900.930032
+>>>Queue Stats: inserted=36853206 items_in_queue=2753206 extracted=34100000
+Reached 34200000 ; States-in-collection: 36937794 ; Time: 1517681903.505886
+>>>Queue Stats: inserted=36937794 items_in_queue=2737794 extracted=34200000
+Reached 34300000 ; States-in-collection: 37029788 ; Time: 1517681905.981173
+>>>Queue Stats: inserted=37029788 items_in_queue=2729788 extracted=34300000
+Reached 34400000 ; States-in-collection: 37117185 ; Time: 1517681908.310893
+>>>Queue Stats: inserted=37117185 items_in_queue=2717185 extracted=34400000
+Reached 34500000 ; States-in-collection: 37210567 ; Time: 1517681910.920765
+>>>Queue Stats: inserted=37210567 items_in_queue=2710567 extracted=34500000
+Reached 34600000 ; States-in-collection: 37302665 ; Time: 1517681913.496097
+>>>Queue Stats: inserted=37302665 items_in_queue=2702665 extracted=34600000
+Reached 34700000 ; States-in-collection: 37397866 ; Time: 1517681915.758509
+>>>Queue Stats: inserted=37397866 items_in_queue=2697866 extracted=34700000
+Reached 34800000 ; States-in-collection: 37491203 ; Time: 1517681918.309102
+>>>Queue Stats: inserted=37491203 items_in_queue=2691203 extracted=34800000
+Reached 34900000 ; States-in-collection: 37585953 ; Time: 1517681920.967799
+>>>Queue Stats: inserted=37585953 items_in_queue=2685953 extracted=34900000
+Reached 35000000 ; States-in-collection: 37678654 ; Time: 1517681923.292952
+>>>Queue Stats: inserted=37678654 items_in_queue=2678654 extracted=35000000
+Reached 35100000 ; States-in-collection: 37773259 ; Time: 1517681925.708662
+>>>Queue Stats: inserted=37773259 items_in_queue=2673259 extracted=35100000
+Reached 35200000 ; States-in-collection: 37866505 ; Time: 1517681928.375081
+>>>Queue Stats: inserted=37866505 items_in_queue=2666505 extracted=35200000
+Reached 35300000 ; States-in-collection: 37954074 ; Time: 1517681930.709943
+>>>Queue Stats: inserted=37954074 items_in_queue=2654074 extracted=35300000
+Reached 35400000 ; States-in-collection: 38041611 ; Time: 1517681932.988738
+>>>Queue Stats: inserted=38041611 items_in_queue=2641611 extracted=35400000
+Reached 35500000 ; States-in-collection: 38117705 ; Time: 1517681935.469758
+>>>Queue Stats: inserted=38117705 items_in_queue=2617705 extracted=35500000
+Reached 35600000 ; States-in-collection: 38209527 ; Time: 1517681937.950336
+>>>Queue Stats: inserted=38209527 items_in_queue=2609527 extracted=35600000
+Reached 35700000 ; States-in-collection: 38297790 ; Time: 1517681940.223840
+>>>Queue Stats: inserted=38297790 items_in_queue=2597790 extracted=35700000
+Reached 35800000 ; States-in-collection: 38396866 ; Time: 1517681942.864325
+>>>Queue Stats: inserted=38396866 items_in_queue=2596866 extracted=35800000
+Reached 35900000 ; States-in-collection: 38485166 ; Time: 1517681945.448542
+>>>Queue Stats: inserted=38485166 items_in_queue=2585166 extracted=35900000
+Reached 36000000 ; States-in-collection: 38583140 ; Time: 1517681947.762336
+>>>Queue Stats: inserted=38583140 items_in_queue=2583140 extracted=36000000
+Reached 36100000 ; States-in-collection: 38668784 ; Time: 1517681950.219653
+>>>Queue Stats: inserted=38668784 items_in_queue=2568784 extracted=36100000
+Reached 36200000 ; States-in-collection: 38761297 ; Time: 1517681952.865082
+>>>Queue Stats: inserted=38761297 items_in_queue=2561297 extracted=36200000
+Reached 36300000 ; States-in-collection: 38847598 ; Time: 1517681955.146678
+>>>Queue Stats: inserted=38847598 items_in_queue=2547598 extracted=36300000
+Reached 36400000 ; States-in-collection: 38930930 ; Time: 1517681957.286867
+>>>Queue Stats: inserted=38930930 items_in_queue=2530930 extracted=36400000
+Reached 36500000 ; States-in-collection: 38997191 ; Time: 1517681959.615206
+>>>Queue Stats: inserted=38997191 items_in_queue=2497191 extracted=36500000
+Reached 36600000 ; States-in-collection: 39071627 ; Time: 1517681961.895027
+>>>Queue Stats: inserted=39071627 items_in_queue=2471627 extracted=36600000
+Reached 36700000 ; States-in-collection: 39147036 ; Time: 1517681964.072744
+>>>Queue Stats: inserted=39147036 items_in_queue=2447036 extracted=36700000
+Reached 36800000 ; States-in-collection: 39220001 ; Time: 1517681966.347721
+>>>Queue Stats: inserted=39220001 items_in_queue=2420001 extracted=36800000
+Reached 36900000 ; States-in-collection: 39296402 ; Time: 1517681968.870026
+>>>Queue Stats: inserted=39296402 items_in_queue=2396402 extracted=36900000
+Reached 37000000 ; States-in-collection: 39384978 ; Time: 1517681971.128427
+>>>Queue Stats: inserted=39384978 items_in_queue=2384978 extracted=37000000
+Reached 37100000 ; States-in-collection: 39461104 ; Time: 1517681973.350324
+>>>Queue Stats: inserted=39461104 items_in_queue=2361104 extracted=37100000
+Reached 37200000 ; States-in-collection: 39549233 ; Time: 1517681975.903177
+>>>Queue Stats: inserted=39549233 items_in_queue=2349233 extracted=37200000
+Reached 37300000 ; States-in-collection: 39634676 ; Time: 1517681978.336647
+>>>Queue Stats: inserted=39634676 items_in_queue=2334676 extracted=37300000
+Reached 37400000 ; States-in-collection: 39728281 ; Time: 1517681980.679714
+>>>Queue Stats: inserted=39728281 items_in_queue=2328281 extracted=37400000
+Reached 37500000 ; States-in-collection: 39815169 ; Time: 1517681983.282779
+>>>Queue Stats: inserted=39815169 items_in_queue=2315169 extracted=37500000
+Reached 37600000 ; States-in-collection: 39903220 ; Time: 1517681985.780777
+>>>Queue Stats: inserted=39903220 items_in_queue=2303220 extracted=37600000
+Reached 37700000 ; States-in-collection: 39995768 ; Time: 1517681988.051506
+>>>Queue Stats: inserted=39995768 items_in_queue=2295768 extracted=37700000
+Reached 37800000 ; States-in-collection: 40086578 ; Time: 1517681990.160749
+>>>Queue Stats: inserted=40086578 items_in_queue=2286578 extracted=37800000
+Reached 37900000 ; States-in-collection: 40178124 ; Time: 1517681992.137141
+>>>Queue Stats: inserted=40178124 items_in_queue=2278124 extracted=37900000
+Reached 38000000 ; States-in-collection: 40253829 ; Time: 1517681994.158406
+>>>Queue Stats: inserted=40253829 items_in_queue=2253829 extracted=38000000
+Reached 38100000 ; States-in-collection: 40332414 ; Time: 1517681996.404591
+>>>Queue Stats: inserted=40332414 items_in_queue=2232414 extracted=38100000
+Reached 38200000 ; States-in-collection: 40413452 ; Time: 1517681999.513918
+>>>Queue Stats: inserted=40413452 items_in_queue=2213452 extracted=38200000
+Reached 38300000 ; States-in-collection: 40495321 ; Time: 1517682002.411495
+>>>Queue Stats: inserted=40495321 items_in_queue=2195321 extracted=38300000
+Reached 38400000 ; States-in-collection: 40592080 ; Time: 1517682005.031031
+>>>Queue Stats: inserted=40592080 items_in_queue=2192080 extracted=38400000
+Reached 38500000 ; States-in-collection: 40674547 ; Time: 1517682007.260250
+>>>Queue Stats: inserted=40674547 items_in_queue=2174547 extracted=38500000
+Reached 38600000 ; States-in-collection: 40766574 ; Time: 1517682009.558924
+>>>Queue Stats: inserted=40766574 items_in_queue=2166574 extracted=38600000
+Reached 38700000 ; States-in-collection: 40847530 ; Time: 1517682012.034802
+>>>Queue Stats: inserted=40847530 items_in_queue=2147530 extracted=38700000
+Reached 38800000 ; States-in-collection: 40927454 ; Time: 1517682014.406507
+>>>Queue Stats: inserted=40927454 items_in_queue=2127454 extracted=38800000
+Reached 38900000 ; States-in-collection: 41017933 ; Time: 1517682016.701730
+>>>Queue Stats: inserted=41017933 items_in_queue=2117933 extracted=38900000
+Reached 39000000 ; States-in-collection: 41081063 ; Time: 1517682018.915921
+>>>Queue Stats: inserted=41081063 items_in_queue=2081063 extracted=39000000
+Reached 39100000 ; States-in-collection: 41143580 ; Time: 1517682021.127723
+>>>Queue Stats: inserted=41143580 items_in_queue=2043580 extracted=39100000
+Reached 39200000 ; States-in-collection: 41209806 ; Time: 1517682023.170786
+>>>Queue Stats: inserted=41209806 items_in_queue=2009806 extracted=39200000
+Reached 39300000 ; States-in-collection: 41278602 ; Time: 1517682025.312785
+>>>Queue Stats: inserted=41278602 items_in_queue=1978602 extracted=39300000
+Reached 39400000 ; States-in-collection: 41359808 ; Time: 1517682027.819862
+>>>Queue Stats: inserted=41359808 items_in_queue=1959808 extracted=39400000
+Reached 39500000 ; States-in-collection: 41433206 ; Time: 1517682030.100995
+>>>Queue Stats: inserted=41433206 items_in_queue=1933206 extracted=39500000
+Reached 39600000 ; States-in-collection: 41509010 ; Time: 1517682032.250851
+>>>Queue Stats: inserted=41509010 items_in_queue=1909010 extracted=39600000
+Reached 39700000 ; States-in-collection: 41600274 ; Time: 1517682034.790388
+>>>Queue Stats: inserted=41600274 items_in_queue=1900274 extracted=39700000
+Reached 39800000 ; States-in-collection: 41674834 ; Time: 1517682037.269907
+>>>Queue Stats: inserted=41674834 items_in_queue=1874834 extracted=39800000
+Reached 39900000 ; States-in-collection: 41759940 ; Time: 1517682039.521050
+>>>Queue Stats: inserted=41759940 items_in_queue=1859940 extracted=39900000
+Reached 40000000 ; States-in-collection: 41842152 ; Time: 1517682041.862733
+>>>Queue Stats: inserted=41842152 items_in_queue=1842152 extracted=40000000
+Reached 40100000 ; States-in-collection: 41921700 ; Time: 1517682044.407384
+>>>Queue Stats: inserted=41921700 items_in_queue=1821700 extracted=40100000
+Reached 40200000 ; States-in-collection: 42012812 ; Time: 1517682046.771225
+>>>Queue Stats: inserted=42012812 items_in_queue=1812812 extracted=40200000
+Reached 40300000 ; States-in-collection: 42079188 ; Time: 1517682048.803517
+>>>Queue Stats: inserted=42079188 items_in_queue=1779188 extracted=40300000
+Reached 40400000 ; States-in-collection: 42144719 ; Time: 1517682050.971278
+>>>Queue Stats: inserted=42144719 items_in_queue=1744719 extracted=40400000
+Reached 40500000 ; States-in-collection: 42218588 ; Time: 1517682053.316705
+>>>Queue Stats: inserted=42218588 items_in_queue=1718588 extracted=40500000
+Reached 40600000 ; States-in-collection: 42307995 ; Time: 1517682055.588972
+>>>Queue Stats: inserted=42307995 items_in_queue=1707995 extracted=40600000
+Reached 40700000 ; States-in-collection: 42385219 ; Time: 1517682057.835369
+>>>Queue Stats: inserted=42385219 items_in_queue=1685219 extracted=40700000
+Reached 40800000 ; States-in-collection: 42463821 ; Time: 1517682060.372914
+>>>Queue Stats: inserted=42463821 items_in_queue=1663821 extracted=40800000
+Reached 40900000 ; States-in-collection: 42545643 ; Time: 1517682062.657486
+>>>Queue Stats: inserted=42545643 items_in_queue=1645643 extracted=40900000
+Reached 41000000 ; States-in-collection: 42620703 ; Time: 1517682064.800369
+>>>Queue Stats: inserted=42620703 items_in_queue=1620703 extracted=41000000
+Reached 41100000 ; States-in-collection: 42686531 ; Time: 1517682067.013956
+>>>Queue Stats: inserted=42686531 items_in_queue=1586531 extracted=41100000
+Reached 41200000 ; States-in-collection: 42747144 ; Time: 1517682069.218476
+>>>Queue Stats: inserted=42747144 items_in_queue=1547144 extracted=41200000
+Reached 41300000 ; States-in-collection: 42809567 ; Time: 1517682071.193107
+>>>Queue Stats: inserted=42809567 items_in_queue=1509567 extracted=41300000
+Reached 41400000 ; States-in-collection: 42876272 ; Time: 1517682073.264949
+>>>Queue Stats: inserted=42876272 items_in_queue=1476272 extracted=41400000
+Reached 41500000 ; States-in-collection: 42945374 ; Time: 1517682075.647193
+>>>Queue Stats: inserted=42945374 items_in_queue=1445374 extracted=41500000
+Reached 41600000 ; States-in-collection: 43026630 ; Time: 1517682078.021451
+>>>Queue Stats: inserted=43026630 items_in_queue=1426630 extracted=41600000
+Reached 41700000 ; States-in-collection: 43099625 ; Time: 1517682080.102846
+>>>Queue Stats: inserted=43099625 items_in_queue=1399625 extracted=41700000
+Reached 41800000 ; States-in-collection: 43172055 ; Time: 1517682082.419325
+>>>Queue Stats: inserted=43172055 items_in_queue=1372055 extracted=41800000
+Reached 41900000 ; States-in-collection: 43253227 ; Time: 1517682084.990781
+>>>Queue Stats: inserted=43253227 items_in_queue=1353227 extracted=41900000
+Reached 42000000 ; States-in-collection: 43329077 ; Time: 1517682087.153199
+>>>Queue Stats: inserted=43329077 items_in_queue=1329077 extracted=42000000
+Reached 42100000 ; States-in-collection: 43395686 ; Time: 1517682089.215352
+>>>Queue Stats: inserted=43395686 items_in_queue=1295686 extracted=42100000
+Reached 42200000 ; States-in-collection: 43458930 ; Time: 1517682090.973466
+>>>Queue Stats: inserted=43458930 items_in_queue=1258930 extracted=42200000
+Reached 42300000 ; States-in-collection: 43541258 ; Time: 1517682092.923033
+>>>Queue Stats: inserted=43541258 items_in_queue=1241258 extracted=42300000
+Reached 42400000 ; States-in-collection: 43614757 ; Time: 1517682095.030668
+>>>Queue Stats: inserted=43614757 items_in_queue=1214757 extracted=42400000
+Reached 42500000 ; States-in-collection: 43686028 ; Time: 1517682097.298719
+>>>Queue Stats: inserted=43686028 items_in_queue=1186028 extracted=42500000
+Reached 42600000 ; States-in-collection: 43752960 ; Time: 1517682100.442805
+>>>Queue Stats: inserted=43752960 items_in_queue=1152960 extracted=42600000
+Reached 42700000 ; States-in-collection: 43813371 ; Time: 1517682102.839659
+>>>Queue Stats: inserted=43813371 items_in_queue=1113371 extracted=42700000
+Reached 42800000 ; States-in-collection: 43871158 ; Time: 1517682104.989034
+>>>Queue Stats: inserted=43871158 items_in_queue=1071158 extracted=42800000
+Reached 42900000 ; States-in-collection: 43935099 ; Time: 1517682106.942736
+>>>Queue Stats: inserted=43935099 items_in_queue=1035099 extracted=42900000
+Reached 43000000 ; States-in-collection: 43999362 ; Time: 1517682108.940157
+>>>Queue Stats: inserted=43999362 items_in_queue=999362 extracted=43000000
+Reached 43100000 ; States-in-collection: 44065751 ; Time: 1517682111.310751
+>>>Queue Stats: inserted=44065751 items_in_queue=965751 extracted=43100000
+Reached 43200000 ; States-in-collection: 44131877 ; Time: 1517682113.588138
+>>>Queue Stats: inserted=44131877 items_in_queue=931877 extracted=43200000
+Reached 43300000 ; States-in-collection: 44197251 ; Time: 1517682115.634177
+>>>Queue Stats: inserted=44197251 items_in_queue=897251 extracted=43300000
+Reached 43400000 ; States-in-collection: 44263653 ; Time: 1517682117.811844
+>>>Queue Stats: inserted=44263653 items_in_queue=863653 extracted=43400000
+Reached 43500000 ; States-in-collection: 44324882 ; Time: 1517682120.063781
+>>>Queue Stats: inserted=44324882 items_in_queue=824882 extracted=43500000
+Reached 43600000 ; States-in-collection: 44390303 ; Time: 1517682122.242573
+>>>Queue Stats: inserted=44390303 items_in_queue=790303 extracted=43600000
+Reached 43700000 ; States-in-collection: 44457662 ; Time: 1517682124.322109
+>>>Queue Stats: inserted=44457662 items_in_queue=757662 extracted=43700000
+Reached 43800000 ; States-in-collection: 44520414 ; Time: 1517682126.519318
+>>>Queue Stats: inserted=44520414 items_in_queue=720414 extracted=43800000
+Reached 43900000 ; States-in-collection: 44576026 ; Time: 1517682128.636763
+>>>Queue Stats: inserted=44576026 items_in_queue=676026 extracted=43900000
+Reached 44000000 ; States-in-collection: 44637084 ; Time: 1517682130.655806
+>>>Queue Stats: inserted=44637084 items_in_queue=637084 extracted=44000000
+Reached 44100000 ; States-in-collection: 44698329 ; Time: 1517682132.679508
+>>>Queue Stats: inserted=44698329 items_in_queue=598329 extracted=44100000
+Reached 44200000 ; States-in-collection: 44761743 ; Time: 1517682134.923645
+>>>Queue Stats: inserted=44761743 items_in_queue=561743 extracted=44200000
+Reached 44300000 ; States-in-collection: 44817470 ; Time: 1517682137.106515
+>>>Queue Stats: inserted=44817470 items_in_queue=517470 extracted=44300000
+Reached 44400000 ; States-in-collection: 44881333 ; Time: 1517682139.103030
+>>>Queue Stats: inserted=44881333 items_in_queue=481333 extracted=44400000
+Reached 44500000 ; States-in-collection: 44941033 ; Time: 1517682141.017791
+>>>Queue Stats: inserted=44941033 items_in_queue=441033 extracted=44500000
+Reached 44600000 ; States-in-collection: 44996376 ; Time: 1517682143.095479
+>>>Queue Stats: inserted=44996376 items_in_queue=396376 extracted=44600000
+Reached 44700000 ; States-in-collection: 45055106 ; Time: 1517682145.251626
+>>>Queue Stats: inserted=45055106 items_in_queue=355106 extracted=44700000
+Reached 44800000 ; States-in-collection: 45113422 ; Time: 1517682147.156514
+>>>Queue Stats: inserted=45113422 items_in_queue=313422 extracted=44800000
+Reached 44900000 ; States-in-collection: 45171610 ; Time: 1517682149.099013
+>>>Queue Stats: inserted=45171610 items_in_queue=271610 extracted=44900000
+Reached 45000000 ; States-in-collection: 45225654 ; Time: 1517682151.157138
+>>>Queue Stats: inserted=45225654 items_in_queue=225654 extracted=45000000
+Reached 45100000 ; States-in-collection: 45275904 ; Time: 1517682153.177082
+>>>Queue Stats: inserted=45275904 items_in_queue=175904 extracted=45100000
+Reached 45200000 ; States-in-collection: 45330781 ; Time: 1517682154.983178
+>>>Queue Stats: inserted=45330781 items_in_queue=130781 extracted=45200000
+Reached 45300000 ; States-in-collection: 45388670 ; Time: 1517682156.857307
+>>>Queue Stats: inserted=45388670 items_in_queue=88670 extracted=45300000
+Reached 45400000 ; States-in-collection: 45441494 ; Time: 1517682158.828986
+>>>Queue Stats: inserted=45441494 items_in_queue=41494 extracted=45400000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 45472149 ; States-in-collection: 45472149 ; Time: 1517682160.286912
+>>>Queue Stats: inserted=45472149 items_in_queue=0 extracted=45472149
+Could not solve successfully.
+handle_and_destroy_instance_solution end
