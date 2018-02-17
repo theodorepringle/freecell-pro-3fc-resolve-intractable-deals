@@ -1,0 +1,997 @@
+instance_run_all_threads start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+instance_run_solver_thread start
+Reached 100000 ; States-in-collection: 114256 ; Time: 1518726662.919966
+>>>Queue Stats: inserted=114256 items_in_queue=14256 extracted=100000
+Reached 200000 ; States-in-collection: 221807 ; Time: 1518726663.456484
+>>>Queue Stats: inserted=221807 items_in_queue=21807 extracted=200000
+Reached 300000 ; States-in-collection: 359875 ; Time: 1518726664.045781
+>>>Queue Stats: inserted=359875 items_in_queue=59875 extracted=300000
+Reached 400000 ; States-in-collection: 493434 ; Time: 1518726664.808597
+>>>Queue Stats: inserted=493434 items_in_queue=93434 extracted=400000
+Reached 500000 ; States-in-collection: 619356 ; Time: 1518726665.428958
+>>>Queue Stats: inserted=619356 items_in_queue=119356 extracted=500000
+Reached 600000 ; States-in-collection: 745184 ; Time: 1518726666.092018
+>>>Queue Stats: inserted=745184 items_in_queue=145184 extracted=600000
+Reached 700000 ; States-in-collection: 856466 ; Time: 1518726666.846217
+>>>Queue Stats: inserted=856466 items_in_queue=156466 extracted=700000
+Reached 800000 ; States-in-collection: 963898 ; Time: 1518726667.501541
+>>>Queue Stats: inserted=963898 items_in_queue=163898 extracted=800000
+Reached 900000 ; States-in-collection: 1089674 ; Time: 1518726668.178417
+>>>Queue Stats: inserted=1089674 items_in_queue=189674 extracted=900000
+Reached 1000000 ; States-in-collection: 1199198 ; Time: 1518726668.833326
+>>>Queue Stats: inserted=1199198 items_in_queue=199198 extracted=1000000
+Reached 1100000 ; States-in-collection: 1336176 ; Time: 1518726669.614310
+>>>Queue Stats: inserted=1336176 items_in_queue=236176 extracted=1100000
+Reached 1200000 ; States-in-collection: 1437376 ; Time: 1518726670.299786
+>>>Queue Stats: inserted=1437376 items_in_queue=237376 extracted=1200000
+Reached 1300000 ; States-in-collection: 1550129 ; Time: 1518726671.029223
+>>>Queue Stats: inserted=1550129 items_in_queue=250129 extracted=1300000
+Reached 1400000 ; States-in-collection: 1645326 ; Time: 1518726671.693469
+>>>Queue Stats: inserted=1645326 items_in_queue=245326 extracted=1400000
+Reached 1500000 ; States-in-collection: 1744355 ; Time: 1518726672.430597
+>>>Queue Stats: inserted=1744355 items_in_queue=244355 extracted=1500000
+Reached 1600000 ; States-in-collection: 1854380 ; Time: 1518726673.175342
+>>>Queue Stats: inserted=1854380 items_in_queue=254380 extracted=1600000
+Reached 1700000 ; States-in-collection: 1947902 ; Time: 1518726673.913716
+>>>Queue Stats: inserted=1947902 items_in_queue=247902 extracted=1700000
+Reached 1800000 ; States-in-collection: 2066174 ; Time: 1518726674.698043
+>>>Queue Stats: inserted=2066174 items_in_queue=266174 extracted=1800000
+Reached 1900000 ; States-in-collection: 2178011 ; Time: 1518726675.411774
+>>>Queue Stats: inserted=2178011 items_in_queue=278011 extracted=1900000
+Reached 2000000 ; States-in-collection: 2290679 ; Time: 1518726676.203874
+>>>Queue Stats: inserted=2290679 items_in_queue=290679 extracted=2000000
+Reached 2100000 ; States-in-collection: 2420311 ; Time: 1518726677.121775
+>>>Queue Stats: inserted=2420311 items_in_queue=320311 extracted=2100000
+Reached 2200000 ; States-in-collection: 2513740 ; Time: 1518726677.777295
+>>>Queue Stats: inserted=2513740 items_in_queue=313740 extracted=2200000
+Reached 2300000 ; States-in-collection: 2604762 ; Time: 1518726678.467038
+>>>Queue Stats: inserted=2604762 items_in_queue=304762 extracted=2300000
+Reached 2400000 ; States-in-collection: 2691573 ; Time: 1518726679.176127
+>>>Queue Stats: inserted=2691573 items_in_queue=291573 extracted=2400000
+Reached 2500000 ; States-in-collection: 2778906 ; Time: 1518726679.833408
+>>>Queue Stats: inserted=2778906 items_in_queue=278906 extracted=2500000
+Reached 2600000 ; States-in-collection: 2865458 ; Time: 1518726680.526281
+>>>Queue Stats: inserted=2865458 items_in_queue=265458 extracted=2600000
+Reached 2700000 ; States-in-collection: 2978512 ; Time: 1518726681.286226
+>>>Queue Stats: inserted=2978512 items_in_queue=278512 extracted=2700000
+Reached 2800000 ; States-in-collection: 3087077 ; Time: 1518726682.087120
+>>>Queue Stats: inserted=3087077 items_in_queue=287077 extracted=2800000
+Reached 2900000 ; States-in-collection: 3206977 ; Time: 1518726682.901756
+>>>Queue Stats: inserted=3206977 items_in_queue=306977 extracted=2900000
+Reached 3000000 ; States-in-collection: 3334008 ; Time: 1518726683.767977
+>>>Queue Stats: inserted=3334008 items_in_queue=334008 extracted=3000000
+Reached 3100000 ; States-in-collection: 3452092 ; Time: 1518726684.554581
+>>>Queue Stats: inserted=3452092 items_in_queue=352092 extracted=3100000
+Reached 3200000 ; States-in-collection: 3555938 ; Time: 1518726685.289376
+>>>Queue Stats: inserted=3555938 items_in_queue=355938 extracted=3200000
+Reached 3300000 ; States-in-collection: 3636319 ; Time: 1518726685.942883
+>>>Queue Stats: inserted=3636319 items_in_queue=336319 extracted=3300000
+Reached 3400000 ; States-in-collection: 3738459 ; Time: 1518726686.587784
+>>>Queue Stats: inserted=3738459 items_in_queue=338459 extracted=3400000
+Reached 3500000 ; States-in-collection: 3854579 ; Time: 1518726687.341483
+>>>Queue Stats: inserted=3854579 items_in_queue=354579 extracted=3500000
+Reached 3600000 ; States-in-collection: 3952782 ; Time: 1518726688.034188
+>>>Queue Stats: inserted=3952782 items_in_queue=352782 extracted=3600000
+Reached 3700000 ; States-in-collection: 4064830 ; Time: 1518726688.776220
+>>>Queue Stats: inserted=4064830 items_in_queue=364830 extracted=3700000
+Reached 3800000 ; States-in-collection: 4184470 ; Time: 1518726689.591388
+>>>Queue Stats: inserted=4184470 items_in_queue=384470 extracted=3800000
+Reached 3900000 ; States-in-collection: 4292529 ; Time: 1518726690.354229
+>>>Queue Stats: inserted=4292529 items_in_queue=392529 extracted=3900000
+Reached 4000000 ; States-in-collection: 4398926 ; Time: 1518726691.091209
+>>>Queue Stats: inserted=4398926 items_in_queue=398926 extracted=4000000
+Reached 4100000 ; States-in-collection: 4528547 ; Time: 1518726691.930028
+>>>Queue Stats: inserted=4528547 items_in_queue=428547 extracted=4100000
+Reached 4200000 ; States-in-collection: 4633154 ; Time: 1518726692.728593
+>>>Queue Stats: inserted=4633154 items_in_queue=433154 extracted=4200000
+Reached 4300000 ; States-in-collection: 4744584 ; Time: 1518726693.513598
+>>>Queue Stats: inserted=4744584 items_in_queue=444584 extracted=4300000
+Reached 4400000 ; States-in-collection: 4854754 ; Time: 1518726694.322725
+>>>Queue Stats: inserted=4854754 items_in_queue=454754 extracted=4400000
+Reached 4500000 ; States-in-collection: 4983368 ; Time: 1518726695.121289
+>>>Queue Stats: inserted=4983368 items_in_queue=483368 extracted=4500000
+Reached 4600000 ; States-in-collection: 5098400 ; Time: 1518726695.910237
+>>>Queue Stats: inserted=5098400 items_in_queue=498400 extracted=4600000
+Reached 4700000 ; States-in-collection: 5207463 ; Time: 1518726696.689600
+>>>Queue Stats: inserted=5207463 items_in_queue=507463 extracted=4700000
+Reached 4800000 ; States-in-collection: 5319714 ; Time: 1518726697.499701
+>>>Queue Stats: inserted=5319714 items_in_queue=519714 extracted=4800000
+Reached 4900000 ; States-in-collection: 5430275 ; Time: 1518726698.289433
+>>>Queue Stats: inserted=5430275 items_in_queue=530275 extracted=4900000
+Reached 5000000 ; States-in-collection: 5568737 ; Time: 1518726699.058687
+>>>Queue Stats: inserted=5568737 items_in_queue=568737 extracted=5000000
+Reached 5100000 ; States-in-collection: 5689547 ; Time: 1518726699.866827
+>>>Queue Stats: inserted=5689547 items_in_queue=589547 extracted=5100000
+Reached 5200000 ; States-in-collection: 5809672 ; Time: 1518726700.672365
+>>>Queue Stats: inserted=5809672 items_in_queue=609672 extracted=5200000
+Reached 5300000 ; States-in-collection: 5932069 ; Time: 1518726701.534663
+>>>Queue Stats: inserted=5932069 items_in_queue=632069 extracted=5300000
+Reached 5400000 ; States-in-collection: 6053918 ; Time: 1518726702.445493
+>>>Queue Stats: inserted=6053918 items_in_queue=653918 extracted=5400000
+Reached 5500000 ; States-in-collection: 6190734 ; Time: 1518726703.347960
+>>>Queue Stats: inserted=6190734 items_in_queue=690734 extracted=5500000
+Reached 5600000 ; States-in-collection: 6330878 ; Time: 1518726704.246181
+>>>Queue Stats: inserted=6330878 items_in_queue=730878 extracted=5600000
+Reached 5700000 ; States-in-collection: 6454929 ; Time: 1518726705.148546
+>>>Queue Stats: inserted=6454929 items_in_queue=754929 extracted=5700000
+Reached 5800000 ; States-in-collection: 6582836 ; Time: 1518726706.075426
+>>>Queue Stats: inserted=6582836 items_in_queue=782836 extracted=5800000
+Reached 5900000 ; States-in-collection: 6712189 ; Time: 1518726706.939423
+>>>Queue Stats: inserted=6712189 items_in_queue=812189 extracted=5900000
+Reached 6000000 ; States-in-collection: 6838996 ; Time: 1518726707.852640
+>>>Queue Stats: inserted=6838996 items_in_queue=838996 extracted=6000000
+Reached 6100000 ; States-in-collection: 6967551 ; Time: 1518726708.743494
+>>>Queue Stats: inserted=6967551 items_in_queue=867551 extracted=6100000
+Reached 6200000 ; States-in-collection: 7103507 ; Time: 1518726709.566219
+>>>Queue Stats: inserted=7103507 items_in_queue=903507 extracted=6200000
+Reached 6300000 ; States-in-collection: 7239981 ; Time: 1518726710.411790
+>>>Queue Stats: inserted=7239981 items_in_queue=939981 extracted=6300000
+Reached 6400000 ; States-in-collection: 7364608 ; Time: 1518726711.321206
+>>>Queue Stats: inserted=7364608 items_in_queue=964608 extracted=6400000
+Reached 6500000 ; States-in-collection: 7485542 ; Time: 1518726712.243418
+>>>Queue Stats: inserted=7485542 items_in_queue=985542 extracted=6500000
+Reached 6600000 ; States-in-collection: 7600584 ; Time: 1518726713.066452
+>>>Queue Stats: inserted=7600584 items_in_queue=1000584 extracted=6600000
+Reached 6700000 ; States-in-collection: 7708675 ; Time: 1518726713.866443
+>>>Queue Stats: inserted=7708675 items_in_queue=1008675 extracted=6700000
+Reached 6800000 ; States-in-collection: 7816642 ; Time: 1518726714.678093
+>>>Queue Stats: inserted=7816642 items_in_queue=1016642 extracted=6800000
+Reached 6900000 ; States-in-collection: 7924517 ; Time: 1518726715.488357
+>>>Queue Stats: inserted=7924517 items_in_queue=1024517 extracted=6900000
+Reached 7000000 ; States-in-collection: 8046993 ; Time: 1518726716.297762
+>>>Queue Stats: inserted=8046993 items_in_queue=1046993 extracted=7000000
+Reached 7100000 ; States-in-collection: 8186364 ; Time: 1518726717.173073
+>>>Queue Stats: inserted=8186364 items_in_queue=1086364 extracted=7100000
+Reached 7200000 ; States-in-collection: 8327085 ; Time: 1518726718.023919
+>>>Queue Stats: inserted=8327085 items_in_queue=1127085 extracted=7200000
+Reached 7300000 ; States-in-collection: 8461932 ; Time: 1518726718.952819
+>>>Queue Stats: inserted=8461932 items_in_queue=1161932 extracted=7300000
+Reached 7400000 ; States-in-collection: 8577652 ; Time: 1518726719.834754
+>>>Queue Stats: inserted=8577652 items_in_queue=1177652 extracted=7400000
+Reached 7500000 ; States-in-collection: 8692414 ; Time: 1518726720.700989
+>>>Queue Stats: inserted=8692414 items_in_queue=1192414 extracted=7500000
+Reached 7600000 ; States-in-collection: 8800376 ; Time: 1518726721.540552
+>>>Queue Stats: inserted=8800376 items_in_queue=1200376 extracted=7600000
+Reached 7700000 ; States-in-collection: 8903640 ; Time: 1518726722.367263
+>>>Queue Stats: inserted=8903640 items_in_queue=1203640 extracted=7700000
+Reached 7800000 ; States-in-collection: 9006246 ; Time: 1518726723.160536
+>>>Queue Stats: inserted=9006246 items_in_queue=1206246 extracted=7800000
+Reached 7900000 ; States-in-collection: 9110155 ; Time: 1518726723.979327
+>>>Queue Stats: inserted=9110155 items_in_queue=1210155 extracted=7900000
+Reached 8000000 ; States-in-collection: 9221231 ; Time: 1518726724.797723
+>>>Queue Stats: inserted=9221231 items_in_queue=1221231 extracted=8000000
+Reached 8100000 ; States-in-collection: 9361343 ; Time: 1518726725.685085
+>>>Queue Stats: inserted=9361343 items_in_queue=1261343 extracted=8100000
+Reached 8200000 ; States-in-collection: 9499667 ; Time: 1518726726.580126
+>>>Queue Stats: inserted=9499667 items_in_queue=1299667 extracted=8200000
+Reached 8300000 ; States-in-collection: 9639422 ; Time: 1518726727.472147
+>>>Queue Stats: inserted=9639422 items_in_queue=1339422 extracted=8300000
+Reached 8400000 ; States-in-collection: 9777793 ; Time: 1518726728.387635
+>>>Queue Stats: inserted=9777793 items_in_queue=1377793 extracted=8400000
+Reached 8500000 ; States-in-collection: 9898169 ; Time: 1518726729.237657
+>>>Queue Stats: inserted=9898169 items_in_queue=1398169 extracted=8500000
+Reached 8600000 ; States-in-collection: 10011089 ; Time: 1518726730.100403
+>>>Queue Stats: inserted=10011089 items_in_queue=1411089 extracted=8600000
+Reached 8700000 ; States-in-collection: 10123363 ; Time: 1518726730.967509
+>>>Queue Stats: inserted=10123363 items_in_queue=1423363 extracted=8700000
+Reached 8800000 ; States-in-collection: 10233847 ; Time: 1518726731.814589
+>>>Queue Stats: inserted=10233847 items_in_queue=1433847 extracted=8800000
+Reached 8900000 ; States-in-collection: 10332509 ; Time: 1518726732.617892
+>>>Queue Stats: inserted=10332509 items_in_queue=1432509 extracted=8900000
+Reached 9000000 ; States-in-collection: 10433681 ; Time: 1518726733.462635
+>>>Queue Stats: inserted=10433681 items_in_queue=1433681 extracted=9000000
+Reached 9100000 ; States-in-collection: 10531560 ; Time: 1518726734.277627
+>>>Queue Stats: inserted=10531560 items_in_queue=1431560 extracted=9100000
+Reached 9200000 ; States-in-collection: 10631573 ; Time: 1518726735.073760
+>>>Queue Stats: inserted=10631573 items_in_queue=1431573 extracted=9200000
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_solver_thread end
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9234366 ; States-in-collection: 10676794 ; Time: 1518726735.406504
+>>>Queue Stats: inserted=10676794 items_in_queue=1442428 extracted=9234366
+Success!
+--------
+Foundations: H-0 C-0 D-0 S-0 
+Freecells:            
+: 2S QS TC JS AC 6S TS
+: QD 2C 9H 3C 3S 8S KH
+: 8H JD 8D AH 5S 2D JC
+: QH AS AD 7H 9D KD 5D
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC 6C
+
+==
+Column 3 -> Freecell 2
+--------
+Foundations: H-0 C-0 D-0 S-0 
+Freecells:  5D        
+: 2S QS TC JS AC 6S TS
+: QD 2C 9H 3C 3S 8S KH
+: 8H JD 8D AH 5S 2D JC
+: QH AS AD 7H 9D KD
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC 6C
+
+==
+Column 3 -> Freecell 2
+--------
+Foundations: H-0 C-0 D-0 S-0 
+Freecells:  5D  KD    
+: 2S QS TC JS AC 6S TS
+: QD 2C 9H 3C 3S 8S KH
+: 8H JD 8D AH 5S 2D JC
+: QH AS AD 7H 9D
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC 6C
+
+==
+Column 1 -> Freecell 2
+--------
+Foundations: H-0 C-0 D-0 S-0 
+Freecells:  5D  KH  KD
+: 2S QS TC JS AC 6S TS
+: QD 2C 9H 3C 3S 8S
+: 8H JD 8D AH 5S 2D JC
+: QH AS AD 7H 9D
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC 6C
+
+==
+Column 3 -> Column 0
+--------
+Foundations: H-0 C-0 D-0 S-0 
+Freecells:  5D  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S
+: 8H JD 8D AH 5S 2D JC
+: QH AS AD 7H
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC 6C
+
+==
+Column 3 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-A 
+Freecells:  5D  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H
+: 8H JD 8D AH 5S 2D JC
+: QH
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC 6C
+
+==
+Column 7 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-A 
+Freecells:  5D  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C
+: 8H JD 8D AH 5S 2D JC
+: QH
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC
+
+==
+Freecell 0 -> Column 1
+--------
+Foundations: H-0 C-0 D-A S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S 2D JC
+: QH
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC
+
+==
+Column 3 -> Freecell 2
+--------
+Foundations: H-0 C-0 D-A S-A 
+Freecells:  QH  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S 2D JC
+: 
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD KC
+
+==
+Column 7 -> Column 3
+--------
+Foundations: H-0 C-0 D-A S-A 
+Freecells:  QH  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S 2D JC
+: KC
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD
+
+==
+Freecell 0 -> Column 3
+--------
+Foundations: H-0 C-0 D-A S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S 2D JC
+: KC QH
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD
+
+==
+Column 2 -> Column 3
+--------
+Foundations: H-0 C-0 D-2 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S
+: KC QH JC
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH TD
+
+==
+Column 7 -> Column 3
+--------
+Foundations: H-0 C-0 D-2 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S
+: KC QH JC TD
+: 5H 2H 4H 6H 4D 3D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH
+
+==
+Column 4 -> Foundation 2
+--------
+Foundations: H-0 C-0 D-3 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S
+: KC QH JC TD
+: 5H 2H 4H 6H 4D
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH
+
+==
+Column 4 -> Foundation 2
+--------
+Foundations: H-0 C-0 D-4 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S
+: KC QH JC TD
+: 5H 2H 4H 6H
+: 7C 8C 7S 6D 9C 5C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH
+
+==
+Column 5 -> Column 4
+--------
+Foundations: H-0 C-0 D-4 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S
+: KC QH JC TD
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 9C
+: QC 4S 7D 4C KS 9S
+: 3H JH TH
+
+==
+Column 5 -> Column 3
+--------
+Foundations: H-0 C-0 D-4 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D AH 5S
+: KC QH JC TD 9C
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D
+: QC 4S 7D 4C KS 9S
+: 3H JH TH
+
+==
+Column 2 -> Column 5
+--------
+Foundations: H-A C-0 D-4 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD 8D
+: KC QH JC TD 9C
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S
+: 3H JH TH
+
+==
+Column 2 -> Column 6
+--------
+Foundations: H-A C-0 D-4 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H JD
+: KC QH JC TD 9C
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 2 -> Freecell 2
+--------
+Foundations: H-A C-0 D-4 S-A 
+Freecells:  JD  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C 5D
+: 8H
+: KC QH JC TD 9C
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 1 -> Foundation 2
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  JD  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C
+: 8H
+: KC QH JC TD 9C
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 2 -> Column 3
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  JD  KH  KD
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: 
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Freecell 0 -> Column 3
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S TS 9D
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 0 -> Freecell 2
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  9D  KH  KD
+: 2S QS TC JS AC 6S TS
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 0 -> Column 3
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  9D  KH  KD
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD TS
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Freecell 0 -> Column 3
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  KH  KD    
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD TS 9D
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D 5S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 5 -> Freecell 2
+--------
+Foundations: H-A C-0 D-5 S-A 
+Freecells:  5S  KH  KD
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD TS 9D
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S 6D
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 5 -> Foundation 2
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5S  KH  KD
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD TS 9D
+: 5H 2H 4H 6H 5C
+: 7C 8C 7S
+: QC 4S 7D 4C KS 9S 8D
+: 3H JH TH
+
+==
+Column 5 -> Column 6
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5S  KH  KD
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD TS 9D
+: 5H 2H 4H 6H 5C
+: 7C 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 5 -> Column 3
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5S  KH  KD
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H
+: JD TS 9D 8C
+: 5H 2H 4H 6H 5C
+: 7C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 5 -> Column 2
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5S  KH  KD
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KC QH JC TD 9C 8H 7C
+: JD TS 9D 8C
+: 5H 2H 4H 6H 5C
+: 
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Freecell 2 -> Column 5
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5S  KH    
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KD
+: KC QH JC TD 9C 8H 7C
+: 5H 2H 4H 6H 5C
+: JD TS 9D 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 4 -> Freecell 2
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5C  5S  KH
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KD
+: KC QH JC TD 9C 8H 7C
+: 5H 2H 4H 6H
+: JD TS 9D 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5C  5S  KH
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KD
+: KC QH JC TD 9C 8H 7C 6H
+: 5H 2H 4H
+: JD TS 9D 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Freecell 1 -> Column 3
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5C  KH    
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H 6C
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S
+: 5H 2H 4H
+: JD TS 9D 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 1 -> Freecell 2
+--------
+Foundations: H-A C-0 D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S
+: 5H 2H 4H
+: JD TS 9D 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 4 -> Column 3
+--------
+Foundations: H-2 C-0 D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S 7H
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: 5H
+: JD TS 9D 8C
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 1 -> Column 5
+--------
+Foundations: H-2 C-0 D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC JS AC 6S
+: QD 2C 9H 3C 3S 8S
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: 5H
+: JD TS 9D 8C 7H
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 0 -> Column 5
+--------
+Foundations: H-2 C-A D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC JS
+: QD 2C 9H 3C 3S 8S
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: 5H
+: JD TS 9D 8C 7H 6S
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 4 -> Column 5
+--------
+Foundations: H-2 C-A D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC JS
+: QD 2C 9H 3C 3S 8S
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JD TS 9D 8C 7H 6S 5H
+: 
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 0 -> Column 5
+--------
+Foundations: H-2 C-A D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC
+: QD 2C 9H 3C 3S 8S
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS
+: JD TS 9D 8C 7H 6S 5H
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TH
+
+==
+Column 7 -> Column 4
+--------
+Foundations: H-2 C-A D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS TC
+: QD 2C 9H 3C 3S 8S
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH
+
+==
+Column 0 -> Column 7
+--------
+Foundations: H-2 C-A D-6 S-A 
+Freecells:  5C  6C  KH
+: 2S QS
+: QD 2C 9H 3C 3S 8S
+: KD
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TC
+
+==
+Column 0 -> Column 2
+--------
+Foundations: H-2 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: 
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH TC
+
+==
+Column 7 -> Column 5
+--------
+Foundations: H-2 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: TC
+: QC 4S 7D 4C KS 9S 8D 7S
+: 3H JH
+
+==
+Column 7 -> Column 0
+--------
+Foundations: H-3 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS JH
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: TC
+: QC 4S 7D 4C KS 9S 8D 7S
+: 
+
+==
+Column 6 -> Column 7
+--------
+Foundations: H-3 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS JH
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: TC
+: QC 4S 7D 4C KS 9S 8D
+: 7S
+
+==
+Column 5 -> Column 0
+--------
+Foundations: H-3 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS JH TC
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: 7S
+: QC 4S 7D 4C KS 9S 8D
+: 
+
+==
+Column 6 -> Column 7
+--------
+Foundations: H-3 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS JH TC
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: 8D
+: QC 4S 7D 4C KS 9S
+: 7S
+
+==
+Column 7 -> Column 5
+--------
+Foundations: H-3 C-A D-6 S-2 
+Freecells:  5C  6C  KH
+: KD QS JH TC
+: QD 2C 9H 3C 3S 8S
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: 8D 7S
+: QC 4S 7D 4C KS 9S
+: 
+
+==
+Column 1 -> Column 7
+--------
+Foundations: H-3 C-A D-6 S-3 
+Freecells:  5C  6C  KH
+: KD QS JH TC
+: QD 2C 9H 3C
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH
+: JD TS 9D 8C 7H 6S 5H
+: 8S
+: QC 4S 7D 4C KS 9S
+: 8D 7S
+
+==
+Column 6 -> Column 3
+--------
+Foundations: H-3 C-A D-6 S-3 
+Freecells:  5C  6C  KH
+: KD QS JH TC
+: QD 2C 9H 3C
+: KC QH JC TD 9C 8H 7C 6H 5S 4H
+: JS TH 9S
+: JD TS 9D 8C 7H 6S 5H
+: 8S
+: QC 4S 7D 4C KS
+: 8D 7S
+
+==
+Column 1 -> Column 2
+--------
+Foundations: H-3 C-A D-6 S-3 
+Freecells:  5C  6C  KH
+: KD QS JH TC
+: QD 2C 9H
+: KC QH JC TD 9C 8H 7C 6H 5S 4H 3C
+: JS TH 9S
+: JD TS 9D 8C 7H 6S 5H
+: 8S
+: QC 4S 7D 4C KS
+: 8D 7S
+
+==
+Column 1 -> Column 0
+--------
+Foundations: H-5 C-3 D-6 S-3 
+Freecells:  5C  6C  KH
+: KD QS JH TC 9H
+: QD
+: KC QH JC TD 9C 8H 7C 6H 5S
+: JS TH 9S
+: JD TS 9D 8C 7H 6S
+: 8S
+: QC 4S 7D 4C KS
+: 8D 7S
+
+==
+Column 5 -> Column 0
+--------
+Foundations: H-5 C-3 D-6 S-3 
+Freecells:  5C  6C  KH
+: KD QS JH TC 9H 8S
+: QD
+: KC QH JC TD 9C 8H 7C 6H 5S
+: JS TH 9S
+: JD TS 9D 8C 7H 6S
+: 8D 7S
+: QC 4S 7D 4C KS
+: 
+
+==
+Column 6 -> Column 7
+--------
+Foundations: H-5 C-6 D-6 S-3 
+Freecells:  KH        
+: KS
+: QD
+: KD QS JH TC 9H 8S
+: KC QH JC TD 9C 8H 7C 6H 5S
+: JS TH 9S
+: JD TS 9D 8C 7H 6S
+: QC 4S 7D
+: 8D 7S
+
+==
+Column 6 -> Freecell 2
+--------
+Foundations: H-K C-K D-K S-K 
+Freecells:            
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+
+==
+END
+handle_and_destroy_instance_solution end
