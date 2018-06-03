@@ -1,7 +1,7 @@
 -=-=-=-=-=-=-=-=-=-=-=-
 
 Foundations: H-0 C-0 D-0 S-0 
-Freecells:                
+Freecells:            
 : QD TD 6H KD 7C 7S 5C
 : 9D JH 7H 8D 8C 9H 5H
 : 4C 3C 3D AS 7D 5D TH
@@ -17,7 +17,7 @@ Freecells:
 Move a card from stack 3 to the foundations
 
 Foundations: H-0 C-A D-0 S-0 
-Freecells:                
+Freecells:            
 : QD TD 6H KD 7C 7S 5C
 : 9D JH 7H 8D 8C 9H 5H
 : 4C 3C 3D AS 7D 5D TH
@@ -30,32 +30,208 @@ Freecells:
 
 ====================
 
-Move a card from stack 6 to freecell 0
+Move a card from stack 1 to freecell 0
 
 Foundations: H-0 C-A D-0 S-0 
-Freecells:  KS            
+Freecells:  5H        
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: 9D JH 7H 8D 8C 9H
 : 4C 3C 3D AS 7D 5D TH
 : AH 4D 6C 6S 2D 3S
 : 3H 6D 4H 9S KC TC
 : QS 2C 8H 2S JC QC
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 1 to stack 4
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H        
+: QD TD 6H KD 7C 7S 5C
+: 9D JH 7H 8D 8C
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D 3S
+: 3H 6D 4H 9S KC TC 9H
+: QS 2C 8H 2S JC QC
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 1 to stack 4
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H        
+: QD TD 6H KD 7C 7S 5C
+: 9D JH 7H 8D
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D 3S
+: 3H 6D 4H 9S KC TC 9H 8C
+: QS 2C 8H 2S JC QC
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move a card from stack 1 to freecell 1
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H  8D    
+: QD TD 6H KD 7C 7S 5C
+: 9D JH 7H
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D 3S
+: 3H 6D 4H 9S KC TC 9H 8C
+: QS 2C 8H 2S JC QC
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 1 to stack 4
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H  8D    
+: QD TD 6H KD 7C 7S 5C
+: 9D JH
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D 3S
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS 2C 8H 2S JC QC
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 1 to stack 5
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H  8D    
+: QD TD 6H KD 7C 7S 5C
+: 9D
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D 3S
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move a card from stack 1 to freecell 2
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H  8D  9D
+: QD TD 6H KD 7C 7S 5C
+: 
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D 3S
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 3 to stack 1
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H  8D  9D
+: QD TD 6H KD 7C 7S 5C
+: 3S
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 2D
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 3 to stack 1
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  5H  8D  9D
+: QD TD 6H KD 7C 7S 5C
+: 3S 2D
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move a card from freecell 0 to stack 3
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:      8D  9D
+: QD TD 6H KD 7C 7S 5C
+: 3S 2D
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C 6S 5H
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 2 cards from stack 3 to stack 4
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:      8D  9D
+: QD TD 6H KD 7C 7S 5C
+: 3S 2D
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C AD 4S KS
+: JS JD TS 2H 8S 5S
+
+
+====================
+
+Move a card from stack 6 to freecell 0
+
+Foundations: H-0 C-A D-0 S-0 
+Freecells:  KS  8D  9D
+: QD TD 6H KD 7C 7S 5C
+: 3S 2D
+: 4C 3C 3D AS 7D 5D TH
+: AH 4D 6C
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
+: QS 2C 8H 2S JC QC JH
 : KH QH 9C AD 4S
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move a card from stack 6 to freecell 1
+Move 1 cards from stack 6 to stack 4
 
 Foundations: H-0 C-A D-0 S-0 
-Freecells:  KS  4S        
+Freecells:  KS  8D  9D
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: 3S 2D
 : 4C 3C 3D AS 7D 5D TH
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S JC QC
+: AH 4D 6C
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
 : KH QH 9C AD
 : JS JD TS 2H 8S 5S
 
@@ -65,686 +241,1166 @@ Freecells:  KS  4S
 Move a card from stack 6 to the foundations
 
 Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  4S        
+Freecells:  KS  8D  9D
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: 3S 2D
 : 4C 3C 3D AS 7D 5D TH
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S JC QC
+: AH 4D 6C
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
 : KH QH 9C
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move a card from stack 6 to freecell 2
+Move a card from stack 1 to the foundations
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  4S  9C    
+Foundations: H-0 C-A D-2 S-0 
+Freecells:  KS  8D  9D
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: 3S
 : 4C 3C 3D AS 7D 5D TH
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S JC QC
-: KH QH
+: AH 4D 6C
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move a card from stack 5 to freecell 3
+Move a card from freecell 1 to stack 6
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  4S  9C  QC
+Foundations: H-0 C-A D-2 S-0 
+Freecells:  KS      9D
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: 3S
 : 4C 3C 3D AS 7D 5D TH
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S JC
-: KH QH
+: AH 4D 6C
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move 1 cards from stack 5 to stack 6
+Move a card from stack 3 to freecell 1
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  4S  9C  QC
+Foundations: H-0 C-A D-2 S-0 
+Freecells:  KS  6C  9D
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: 3S
 : 4C 3C 3D AS 7D 5D TH
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S
-: KH QH JC
+: AH 4D
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move 1 cards from stack 2 to stack 6
+Move 1 cards from stack 3 to stack 0
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  4S  9C  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
-: 4C 3C 3D AS 7D 5D
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S
-: KH QH JC TH
+Foundations: H-0 C-A D-2 S-0 
+Freecells:  KS  6C  9D
+: QD TD 6H KD 7C 7S 5C 4D
+: 3S
+: 4C 3C 3D AS 7D 5D TH
+: AH
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move a card from freecell 2 to stack 6
+Move a card from stack 3 to the foundations
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  4S      QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
-: 4C 3C 3D AS 7D 5D
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S
-: KH QH JC TH 9C
+Foundations: H-A C-A D-2 S-0 
+Freecells:  KS  6C  9D
+: QD TD 6H KD 7C 7S 5C 4D
+: 3S
+: 4C 3C 3D AS 7D 5D TH
+: 
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
 : JS JD TS 2H 8S 5S
 
 
 ====================
 
-Move a card from freecell 1 to stack 1
+Move 1 cards from stack 1 to stack 0
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS          QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
-: 4C 3C 3D AS 7D 5D
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S
-: KH QH JC TH 9C
+Foundations: H-A C-A D-2 S-0 
+Freecells:  KS  6C  9D
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 
+: 4C 3C 3D AS 7D 5D TH
+: 
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
 : JS JD TS 2H 8S 5S
+
+
+====================
+
+Move 1 cards from stack 7 to stack 3
+
+Foundations: H-A C-A D-2 S-0 
+Freecells:  KS  6C  9D
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 
+: 4C 3C 3D AS 7D 5D TH
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 2H 8S
+
+
+====================
+
+Move 1 cards from stack 7 to stack 1
+
+Foundations: H-A C-A D-2 S-0 
+Freecells:  KS  6C  9D
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 8S
+: 4C 3C 3D AS 7D 5D TH
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 2H
+
+
+====================
+
+Move a card from stack 7 to the foundations
+
+Foundations: H-2 C-A D-2 S-0 
+Freecells:  KS  6C  9D
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 8S
+: 4C 3C 3D AS 7D 5D TH
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS
+
+
+====================
+
+Move a card from freecell 2 to stack 7
+
+Foundations: H-2 C-A D-2 S-0 
+Freecells:  KS  6C    
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 8S
+: 4C 3C 3D AS 7D 5D TH
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D
+
+
+====================
+
+Move 1 cards from stack 1 to stack 7
+
+Foundations: H-2 C-A D-2 S-0 
+Freecells:  KS  6C    
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 
+: 4C 3C 3D AS 7D 5D TH
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S
 
 
 ====================
 
 Move a card from stack 2 to freecell 2
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS      5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
+Foundations: H-2 C-A D-2 S-0 
+Freecells:  KS  6C  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 
+: 4C 3C 3D AS 7D 5D
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S
+
+
+====================
+
+Move 1 cards from stack 2 to stack 1
+
+Foundations: H-2 C-A D-2 S-0 
+Freecells:  KS  6C  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 5D
 : 4C 3C 3D AS 7D
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S
 
 
 ====================
 
-Move a card from stack 2 to freecell 1
+Move 1 cards from stack 2 to stack 7
 
-Foundations: H-0 C-A D-A S-0 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
+Foundations: H-2 C-A D-2 S-0 
+Freecells:  KS  6C  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 5D
 : 4C 3C 3D AS
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H 2S
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
 
 
 ====================
 
 Move a card from stack 2 to the foundations
 
-Foundations: H-0 C-A D-A S-A 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
+Foundations: H-2 C-A D-2 S-A 
+Freecells:  KS  6C  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 5D
 : 4C 3C 3D
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from stack 2 to the foundations
+
+Foundations: H-2 C-A D-3 S-A 
+Freecells:  KS  6C  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 5D
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from freecell 1 to stack 7
+
+Foundations: H-2 C-A D-3 S-A 
+Freecells:  KS      TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 5D
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C
+
+
+====================
+
+Move 1 cards from stack 1 to stack 7
+
+Foundations: H-2 C-A D-3 S-A 
+Freecells:  KS      TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: 
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC QC JH
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
+
+
+====================
+
+Move 2 cards from stack 5 to stack 1
+
+Foundations: H-2 C-A D-3 S-A 
+Freecells:  KS      TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: QC JH
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H 2S JC
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
+
+
+====================
+
+Move a card from stack 5 to freecell 1
+
+Foundations: H-2 C-A D-3 S-A 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: QC JH
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
 : QS 2C 8H 2S
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
 Move a card from stack 5 to the foundations
 
-Foundations: H-0 C-A D-A S-2 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
-: 4C 3C 3D
-: AH 4D 6C 6S 2D 3S
-: 3H 6D 4H 9S KC TC
+Foundations: H-2 C-A D-3 S-2 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D 3S
+: QC JH
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
 : QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
+
+
+====================
+
+Move a card from stack 0 to the foundations
+
+Foundations: H-2 C-A D-3 S-3 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D
+: QC JH
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H 4S
+: QS 2C 8H
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
+
+
+====================
+
+Move a card from stack 4 to the foundations
+
+Foundations: H-2 C-A D-3 S-4 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D
+: QC JH
+: 4C 3C
+: 5S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
+: QS 2C 8H
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
 Move a card from stack 3 to the foundations
 
-Foundations: H-0 C-A D-A S-3 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
-: 4C 3C 3D
-: AH 4D 6C 6S 2D
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
-
-
-====================
-
-Move a card from stack 3 to the foundations
-
-Foundations: H-0 C-A D-2 S-3 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
-: 4C 3C 3D
-: AH 4D 6C 6S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
-
-
-====================
-
-Move a card from stack 2 to the foundations
-
-Foundations: H-0 C-A D-3 S-3 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H 4S
+Foundations: H-2 C-A D-3 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D
+: QC JH
 : 4C 3C
-: AH 4D 6C 6S
-: 3H 6D 4H 9S KC TC
+: 
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
-Move a card from stack 1 to the foundations
+Move 1 cards from stack 5 to stack 3
 
-Foundations: H-0 C-A D-3 S-4 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+Foundations: H-2 C-A D-3 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D
+: QC JH
 : 4C 3C
-: AH 4D 6C 6S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S 5S
-
-
-====================
-
-Move a card from stack 7 to the foundations
-
-Foundations: H-0 C-A D-3 S-5 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
-: 4C 3C
-: AH 4D 6C 6S
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S
-
-
-====================
-
-Move a card from stack 3 to the foundations
-
-Foundations: H-0 C-A D-3 S-6 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
-: 4C 3C
-: AH 4D 6C
-: 3H 6D 4H 9S KC TC
-: QS 2C 8H
-: KH QH JC TH 9C
-: JS JD TS 2H 8S
-
-
-====================
-
-Move 1 cards from stack 5 to stack 6
-
-Foundations: H-0 C-A D-3 S-6 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
-: 4C 3C
-: AH 4D 6C
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS 2C
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
 Move a card from stack 5 to the foundations
 
-Foundations: H-0 C-2 D-3 S-6 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+Foundations: H-2 C-2 D-3 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D
+: QC JH
 : 4C 3C
-: AH 4D 6C
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
 Move a card from stack 2 to the foundations
 
-Foundations: H-0 C-3 D-3 S-6 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+Foundations: H-2 C-3 D-3 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C 4D
+: QC JH
 : 4C
-: AH 4D 6C
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
+
+
+====================
+
+Move a card from stack 0 to the foundations
+
+Foundations: H-2 C-3 D-4 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C
+: QC JH
+: 4C
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
+: QS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
 Move a card from stack 2 to the foundations
 
-Foundations: H-0 C-4 D-3 S-6 
-Freecells:  KS  7D  5D  QC
+Foundations: H-2 C-4 D-4 S-5 
+Freecells:  KS  JC  TH
 : QD TD 6H KD 7C 7S 5C
-: 9D JH 7H 8D 8C 9H 5H
+: QC JH
 : 
-: AH 4D 6C
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
-
-
-====================
-
-Move a card from stack 0 to the foundations
-
-Foundations: H-0 C-5 D-3 S-6 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: AH 4D 6C
-: 3H 6D 4H 9S KC TC
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
-
-
-====================
-
-Move a card from stack 3 to the foundations
-
-Foundations: H-0 C-6 D-3 S-6 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C 7S
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: AH 4D
-: 3H 6D 4H 9S KC TC
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
-
-
-====================
-
-Move a card from stack 0 to the foundations
-
-Foundations: H-0 C-6 D-3 S-7 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: AH 4D
-: 3H 6D 4H 9S KC TC
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H 8S
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C 5D
 
 
 ====================
 
 Move a card from stack 7 to the foundations
 
-Foundations: H-0 C-6 D-3 S-8 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD 7C
-: 9D JH 7H 8D 8C 9H 5H
+Foundations: H-2 C-4 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S 5C
+: QC JH
 : 
-: AH 4D
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C
 
 
 ====================
 
 Move a card from stack 0 to the foundations
 
-Foundations: H-0 C-7 D-3 S-8 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
+Foundations: H-2 C-5 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S
+: QC JH
 : 
-: AH 4D
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H
-
-
-====================
-
-Move a card from stack 3 to the foundations
-
-Foundations: H-0 C-7 D-4 S-8 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: AH
-: 3H 6D 4H 9S KC TC
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H
-
-
-====================
-
-Move a card from stack 3 to the foundations
-
-Foundations: H-A C-7 D-4 S-8 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: 
-: 3H 6D 4H 9S KC TC
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS 2H
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6C
 
 
 ====================
 
 Move a card from stack 7 to the foundations
 
-Foundations: H-2 C-7 D-4 S-8 
-Freecells:  KS  7D  5D  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
+Foundations: H-2 C-6 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C 7S
+: QC JH
 : 
-: 
-: 3H 6D 4H 9S KC TC
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
 
 
 ====================
 
-Move a card from freecell 2 to the foundations
+Move 1 cards from stack 0 to stack 2
 
-Foundations: H-2 C-7 D-5 S-8 
-Freecells:  KS  7D      QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: 
-: 3H 6D 4H 9S KC TC
+Foundations: H-2 C-6 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD 7C
+: QC JH
+: 7S
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
 
 
 ====================
 
-Move a card from stack 4 to freecell 2
+Move a card from stack 0 to the foundations
 
-Foundations: H-2 C-7 D-5 S-8 
-Freecells:  KS  7D  TC  QC
+Foundations: H-2 C-7 D-5 S-5 
+Freecells:  KS  JC  TH
 : QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: 
-: 
-: 3H 6D 4H 9S KC
+: QC JH
+: 7S
+: 8H
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
 : QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move 1 cards from stack 2 to stack 3
+
+Foundations: H-2 C-7 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD
+: QC JH
+: 
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
+: QS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move 2 cards from stack 1 to stack 0
+
+Foundations: H-2 C-7 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD QC JH
+: 
+: 
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H 8C 7H 6S 5H
+: QS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move 2 cards from stack 4 to stack 7
+
+Foundations: H-2 C-7 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD QC JH
+: 
+: 
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H 8C 7H
+: QS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6S 5H
 
 
 ====================
 
 Move 1 cards from stack 4 to stack 2
 
-Foundations: H-2 C-7 D-5 S-8 
-Freecells:  KS  7D  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: KC
+Foundations: H-2 C-7 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD QC JH
 : 
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H 8C
+: QS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 4 to the foundations
+
+Foundations: H-2 C-8 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD QC JH
+: 
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H
+: QS
+: KH QH 9C 8D
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move 1 cards from stack 6 to stack 1
+
+Foundations: H-2 C-8 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD QC JH
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H
+: QS
+: KH QH 9C
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 6 to the foundations
+
+Foundations: H-2 C-9 D-5 S-5 
+Freecells:  KS  JC  TH
+: QD TD 6H KD QC JH
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H
+: QS
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from freecell 1 to stack 6
+
+Foundations: H-2 C-9 D-5 S-5 
+Freecells:  KS      TH
+: QD TD 6H KD QC JH
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC TC 9H
+: QS
+: KH QH JC
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 4 to freecell 1
+
+Foundations: H-2 C-9 D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QC JH
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC TC
+: QS
+: KH QH JC
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 4 to the foundations
+
+Foundations: H-2 C-T D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QC JH
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC
+: QS
+: KH QH JC
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 6 to the foundations
+
+Foundations: H-2 C-J D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QC JH
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC
+: QS
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move 1 cards from stack 0 to stack 5
+
+Foundations: H-2 C-J D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QC
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC
+: QS JH
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 0 to the foundations
+
+Foundations: H-2 C-Q D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD
+: 8D
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S KC
+: QS JH
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move a card from stack 4 to the foundations
+
+Foundations: H-2 C-K D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD
+: 8D
+: 7H
+: 8H 7S
 : 3H 6D 4H 9S
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: QS JH
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
 
 
 ====================
 
-Move a card from stack 4 to the foundations
+Move 1 cards from stack 1 to stack 4
 
-Foundations: H-2 C-7 D-5 S-9 
-Freecells:  KS  7D  TC  QC
+Foundations: H-2 C-K D-5 S-5 
+Freecells:  KS  9H  TH
 : QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: KC
 : 
-: 3H 6D 4H
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S 8D
+: QS JH
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
 
 
 ====================
 
-Move 1 cards from stack 4 to stack 3
+Move 2 cards from stack 5 to stack 0
 
-Foundations: H-2 C-7 D-5 S-9 
-Freecells:  KS  7D  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: KC
-: 4H
-: 3H 6D
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
-
-
-====================
-
-Move a card from stack 4 to the foundations
-
-Foundations: H-2 C-7 D-6 S-9 
-Freecells:  KS  7D  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: KC
-: 4H
-: 3H
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
-
-
-====================
-
-Move a card from stack 4 to the foundations
-
-Foundations: H-3 C-7 D-6 S-9 
-Freecells:  KS  7D  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: KC
-: 4H
+Foundations: H-2 C-K D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QS JH
 : 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S 8D
+: 
+: KH QH
+: JS JD TS 9D 8S 7D 6S 5H
+
+
+====================
+
+Move 1 cards from stack 7 to stack 1
+
+Foundations: H-2 C-K D-5 S-5 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S 8D
+: 
+: KH QH
+: JS JD TS 9D 8S 7D 6S
+
+
+====================
+
+Move a card from stack 7 to the foundations
+
+Foundations: H-2 C-K D-5 S-6 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H 7S
+: 3H 6D 4H 9S 8D
+: 
+: KH QH
+: JS JD TS 9D 8S 7D
 
 
 ====================
 
 Move a card from stack 3 to the foundations
 
-Foundations: H-4 C-7 D-6 S-9 
-Freecells:  KS  7D  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H 5H
-: KC
+Foundations: H-2 C-K D-5 S-7 
+Freecells:  KS  9H  TH
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
+: 3H 6D 4H 9S 8D
 : 
+: KH QH
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from freecell 2 to stack 5
+
+Foundations: H-2 C-K D-5 S-7 
+Freecells:  KS  9H    
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
+: 3H 6D 4H 9S 8D
+: TH
+: KH QH
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move 2 cards from stack 4 to stack 5
+
+Foundations: H-2 C-K D-5 S-7 
+Freecells:  KS  9H    
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
+: 3H 6D 4H
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from stack 4 to freecell 2
+
+Foundations: H-2 C-K D-5 S-7 
+Freecells:  KS  9H  4H
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
+: 3H 6D
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from stack 4 to the foundations
+
+Foundations: H-2 C-K D-6 S-7 
+Freecells:  KS  9H  4H
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
+: 3H
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from stack 4 to the foundations
+
+Foundations: H-3 C-K D-6 S-7 
+Freecells:  KS  9H  4H
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
 : 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S 7D
+
+
+====================
+
+Move a card from freecell 2 to the foundations
+
+Foundations: H-4 C-K D-6 S-7 
+Freecells:  KS  9H    
+: QD TD 6H KD QS JH
+: 5H
+: 7H
+: 8H
+: 
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S 7D
 
 
 ====================
 
 Move a card from stack 1 to the foundations
 
-Foundations: H-5 C-7 D-6 S-9 
-Freecells:  KS  7D  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H
-: KC
+Foundations: H-5 C-K D-6 S-7 
+Freecells:  KS  9H    
+: QD TD 6H KD QS JH
 : 
+: 7H
+: 8H
 : 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S 7D
 
 
 ====================
 
-Move a card from freecell 1 to the foundations
+Move a card from stack 7 to the foundations
 
-Foundations: H-5 C-7 D-7 S-9 
-Freecells:  KS      TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C 9H
-: KC
+Foundations: H-5 C-K D-7 S-7 
+Freecells:  KS  9H    
+: QD TD 6H KD QS JH
 : 
+: 7H
+: 8H
 : 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: TH 9S 8D
+: KH QH
+: JS JD TS 9D 8S
 
 
 ====================
 
-Move a card from stack 1 to freecell 1
+Move a card from stack 5 to the foundations
 
-Foundations: H-5 C-7 D-7 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D 8C
-: KC
+Foundations: H-5 C-K D-8 S-7 
+Freecells:  KS  9H    
+: QD TD 6H KD QS JH
 : 
+: 7H
+: 8H
 : 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
 
 
 ====================
 
-Move a card from stack 1 to the foundations
+Move a card from stack 0 to freecell 2
 
-Foundations: H-5 C-8 D-7 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD 6H KD
-: 9D JH 7H 8D
-: KC
+Foundations: H-5 C-K D-8 S-7 
+Freecells:  KS  9H  JH
+: QD TD 6H KD QS
 : 
+: 7H
+: 8H
 : 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
-
-
-====================
-
-Move a card from stack 1 to the foundations
-
-Foundations: H-5 C-8 D-8 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD 6H KD
-: 9D JH 7H
-: KC
-: 
-: 
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
 
 
 ====================
 
 Move 1 cards from stack 0 to stack 4
 
-Foundations: H-5 C-8 D-8 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD 6H
-: 9D JH 7H
-: KC
+Foundations: H-5 C-K D-8 S-7 
+Freecells:  KS  9H  JH
+: QD TD 6H KD
 : 
-: KD
+: 7H
+: 8H
 : QS
-: KH QH JC TH 9C 8H
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
+
+
+====================
+
+Move 1 cards from stack 0 to stack 1
+
+Foundations: H-5 C-K D-8 S-7 
+Freecells:  KS  9H  JH
+: QD TD 6H
+: KD
+: 7H
+: 8H
+: QS
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
+
+
+====================
+
+Move a card from stack 0 to the foundations
+
+Foundations: H-6 C-K D-8 S-7 
+Freecells:  KS  9H  JH
+: QD TD
+: KD
+: 7H
+: 8H
+: QS
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
+
+
+====================
+
+Move a card from stack 2 to the foundations
+
+Foundations: H-7 C-K D-8 S-7 
+Freecells:  KS  9H  JH
+: QD TD
+: KD
+: 
+: 8H
+: QS
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
+
+
+====================
+
+Move a card from stack 3 to the foundations
+
+Foundations: H-8 C-K D-8 S-7 
+Freecells:  KS  9H  JH
+: QD TD
+: KD
+: 
+: 
+: QS
+: TH 9S
+: KH QH
+: JS JD TS 9D 8S
+
+
+====================
+
+Move a card from stack 7 to the foundations
+
+Foundations: H-8 C-K D-8 S-8 
+Freecells:  KS  9H  JH
+: QD TD
+: KD
+: 
+: 
+: QS
+: TH 9S
+: KH QH
+: JS JD TS 9D
+
+
+====================
+
+Move a card from freecell 1 to the foundations
+
+Foundations: H-9 C-K D-8 S-8 
+Freecells:  KS      JH
+: QD TD
+: KD
+: 
+: 
+: QS
+: TH 9S
+: KH QH
+: JS JD TS 9D
+
+
+====================
+
+Move a card from stack 5 to the foundations
+
+Foundations: H-9 C-K D-8 S-9 
+Freecells:  KS      JH
+: QD TD
+: KD
+: 
+: 
+: QS
+: TH
+: KH QH
+: JS JD TS 9D
+
+
+====================
+
+Move a card from stack 7 to the foundations
+
+Foundations: H-9 C-K D-9 S-9 
+Freecells:  KS      JH
+: QD TD
+: KD
+: 
+: 
+: QS
+: TH
+: KH QH
 : JS JD TS
 
 
@@ -752,63 +1408,31 @@ Freecells:  KS  9H  TC  QC
 
 Move a card from stack 0 to the foundations
 
-Foundations: H-6 C-8 D-8 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD
-: 9D JH 7H
-: KC
-: 
+Foundations: H-9 C-K D-T S-9 
+Freecells:  KS      JH
+: QD
 : KD
+: 
+: 
 : QS
-: KH QH JC TH 9C 8H
+: TH
+: KH QH
 : JS JD TS
 
 
 ====================
 
-Move a card from stack 1 to the foundations
+Move a card from stack 5 to the foundations
 
-Foundations: H-7 C-8 D-8 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD
-: 9D JH
-: KC
-: 
+Foundations: H-T C-K D-T S-9 
+Freecells:  KS      JH
+: QD
 : KD
-: QS
-: KH QH JC TH 9C 8H
-: JS JD TS
-
-
-====================
-
-Move a card from stack 6 to the foundations
-
-Foundations: H-8 C-8 D-8 S-9 
-Freecells:  KS  9H  TC  QC
-: QD TD
-: 9D JH
-: KC
 : 
-: KD
-: QS
-: KH QH JC TH 9C
-: JS JD TS
-
-
-====================
-
-Move a card from freecell 1 to the foundations
-
-Foundations: H-9 C-8 D-8 S-9 
-Freecells:  KS      TC  QC
-: QD TD
-: 9D JH
-: KC
 : 
-: KD
 : QS
-: KH QH JC TH 9C
+: 
+: KH QH
 : JS JD TS
 
 
@@ -816,31 +1440,15 @@ Freecells:  KS      TC  QC
 
 Move a card from stack 7 to the foundations
 
-Foundations: H-9 C-8 D-8 S-T 
-Freecells:  KS      TC  QC
-: QD TD
-: 9D JH
-: KC
-: 
+Foundations: H-T C-K D-T S-T 
+Freecells:  KS      JH
+: QD
 : KD
-: QS
-: KH QH JC TH 9C
-: JS JD
-
-
-====================
-
-Move a card from stack 6 to the foundations
-
-Foundations: H-9 C-9 D-8 S-T 
-Freecells:  KS      TC  QC
-: QD TD
-: 9D JH
-: KC
 : 
-: KD
+: 
 : QS
-: KH QH JC TH
+: 
+: KH QH
 : JS JD
 
 
@@ -848,110 +1456,14 @@ Freecells:  KS      TC  QC
 
 Move a card from freecell 2 to the foundations
 
-Foundations: H-9 C-T D-8 S-T 
-Freecells:  KS          QC
-: QD TD
-: 9D JH
-: KC
-: 
-: KD
-: QS
-: KH QH JC TH
-: JS JD
-
-
-====================
-
-Move a card from stack 6 to the foundations
-
-Foundations: H-T C-T D-8 S-T 
-Freecells:  KS          QC
-: QD TD
-: 9D JH
-: KC
-: 
-: KD
-: QS
-: KH QH JC
-: JS JD
-
-
-====================
-
-Move a card from stack 1 to the foundations
-
-Foundations: H-J C-T D-8 S-T 
-Freecells:  KS          QC
-: QD TD
-: 9D
-: KC
-: 
-: KD
-: QS
-: KH QH JC
-: JS JD
-
-
-====================
-
-Move a card from stack 1 to the foundations
-
-Foundations: H-J C-T D-9 S-T 
-Freecells:  KS          QC
-: QD TD
-: 
-: KC
-: 
-: KD
-: QS
-: KH QH JC
-: JS JD
-
-
-====================
-
-Move a card from stack 0 to the foundations
-
-Foundations: H-J C-T D-T S-T 
-Freecells:  KS          QC
+Foundations: H-J C-K D-T S-T 
+Freecells:  KS        
 : QD
-: 
-: KC
-: 
 : KD
+: 
+: 
 : QS
-: KH QH JC
-: JS JD
-
-
-====================
-
-Move a card from stack 6 to the foundations
-
-Foundations: H-J C-J D-T S-T 
-Freecells:  KS          QC
-: QD
 : 
-: KC
-: 
-: KD
-: QS
-: KH QH
-: JS JD
-
-
-====================
-
-Move a card from freecell 3 to the foundations
-
-Foundations: H-J C-Q D-T S-T 
-Freecells:  KS            
-: QD
-: 
-: KC
-: 
-: KD
-: QS
 : KH QH
 : JS JD
 
@@ -960,14 +1472,14 @@ Freecells:  KS
 
 Move a card from stack 7 to the foundations
 
-Foundations: H-J C-Q D-J S-T 
-Freecells:  KS            
+Foundations: H-J C-K D-J S-T 
+Freecells:  KS        
 : QD
-: 
-: KC
-: 
 : KD
+: 
+: 
 : QS
+: 
 : KH QH
 : JS
 
@@ -976,14 +1488,14 @@ Freecells:  KS
 
 Move a card from stack 0 to the foundations
 
-Foundations: H-J C-Q D-Q S-T 
-Freecells:  KS            
-: 
-: 
-: KC
+Foundations: H-J C-K D-Q S-T 
+Freecells:  KS        
 : 
 : KD
+: 
+: 
 : QS
+: 
 : KH QH
 : JS
 
@@ -992,30 +1504,14 @@ Freecells:  KS
 
 Move a card from stack 6 to the foundations
 
-Foundations: H-Q C-Q D-Q S-T 
-Freecells:  KS            
-: 
-: 
-: KC
-: 
-: KD
-: QS
-: KH
-: JS
-
-
-====================
-
-Move a card from stack 2 to the foundations
-
 Foundations: H-Q C-K D-Q S-T 
-Freecells:  KS            
-: 
-: 
-: 
+Freecells:  KS        
 : 
 : KD
+: 
+: 
 : QS
+: 
 : KH
 : JS
 
@@ -1025,28 +1521,28 @@ Freecells:  KS
 Move a card from stack 7 to the foundations
 
 Foundations: H-Q C-K D-Q S-J 
-Freecells:  KS            
-: 
-: 
-: 
+Freecells:  KS        
 : 
 : KD
+: 
+: 
 : QS
+: 
 : KH
 : 
 
 
 ====================
 
-Move a card from stack 5 to the foundations
+Move a card from stack 4 to the foundations
 
 Foundations: H-Q C-K D-Q S-Q 
-Freecells:  KS            
-: 
-: 
-: 
+Freecells:  KS        
 : 
 : KD
+: 
+: 
+: 
 : 
 : KH
 : 
@@ -1057,12 +1553,12 @@ Freecells:  KS
 Move a card from stack 6 to the foundations
 
 Foundations: H-K C-K D-Q S-Q 
-Freecells:  KS            
-: 
-: 
-: 
+Freecells:  KS        
 : 
 : KD
+: 
+: 
+: 
 : 
 : 
 : 
@@ -1070,10 +1566,10 @@ Freecells:  KS
 
 ====================
 
-Move a card from stack 4 to the foundations
+Move a card from stack 1 to the foundations
 
 Foundations: H-K C-K D-K S-Q 
-Freecells:  KS            
+Freecells:  KS        
 : 
 : 
 : 
@@ -1089,7 +1585,7 @@ Freecells:  KS
 Move a card from freecell 0 to the foundations
 
 Foundations: H-K C-K D-K S-K 
-Freecells:                
+Freecells:            
 : 
 : 
 : 
@@ -1103,5 +1599,5 @@ Freecells:
 ====================
 
 This game is solveable.
-Total number of states checked is 80849.
-This scan generated 115201 states.
+Total number of states checked is 196128.
+This scan generated 221324 states.
